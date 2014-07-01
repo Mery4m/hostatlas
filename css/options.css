@@ -1,0 +1,90 @@
+#change_wrap_div{ background-color: #ffffff}  #change_wrap_div{ background-repeat: repeat} body{ background-repeat: repeat} #footer{ background-repeat: repeat-y} .widget_search-widget .widget-title, .search-widget .widget-title{ background:url(http://dev.crumina.net/maestro/wp-content/uploads/2014/04/search-icon.png) 0 0 no-repeat;
+}
+.widget_crum_news_cat .widget-title, .crum_news_cat .widget-title { background:url(http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/nfc.png) 0 0 no-repeat;
+}
+.widget_crum_testimonial_widget .widget-title, .crum_testimonial_widget .widget-title { background:url(http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/test1.png) 0 0 no-repeat;
+}
+.list_widget .widget-title, .widget_list_widget .widget-title { background:url(http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/rtb.png) 0 0 no-repeat;
+}
+.widget_crum_partners_widget .widget-title, .crum_partners_widget .widget-title { background:url(http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/part1.png) 0 0 no-repeat;
+}
+.widget_instagram-widget .widget-title, .instagram-widget .widget-title { background:url(http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/flickr.png) 0 0 no-repeat;
+}
+.widget_crum-text-widget .widget-title, .crum-text-widget .widget-title { background:url(http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/tb.png) 0 0 no-repeat;
+}
+.widget_contacts-widget .widget-title, .contacts-widget .widget-title { background:url(http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/cont2.png) 0 0 no-repeat;
+}
+.widget_tags-widget .widget-title, .tags-widget .widget-title { background:url(http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/tags1.png) 0 0 no-repeat;
+}
+.widget_tabs-widget .widget-title, .aq_tabs .widget-title { background:url(http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/tabs.png) 0 0 no-repeat;
+}
+.widget_gallery_widget .widget-title, .gallery_widget .widget-title { background:url(http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/rand.png) 0 0 no-repeat;
+}
+.widget_twitter-widget .widget-title, .twitter-widget .widget-title { background:url(http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/twit.png) 0 0 no-repeat;
+}
+.widget_category-widget .widget-title, .category-widget .widget-title { background:url(http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/cats.png) 0 0 no-repeat;
+}
+.widget_facebook_widget .widget-title, .facebook_widget .widget-title { background:url(http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/face.png) 0 0 no-repeat;
+}
+.widget_crum_widgets_video .widget-title, .crum_widgets_video .widget-title { background:url(http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/vid.png) 0 0 no-repeat;
+}
+.widget_crum_widget_v_accordion .widget-title, .crum_widget_v_accordion .widget-title { background:url(http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/vt2.png) 0 0 no-repeat;
+}
+.widget_crum_galleries_widget .widget-title, .crum_galleries_widget .widget-title { background:url(http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/gal.png) 0 0 no-repeat;
+}
+.widget_crum_news_row .widget-title, .crum_news_row .widget-title { background:url(http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/news.png) 0 0 no-repeat;
+}
+.widget_about_author_widget .widget-title, .about_author_widget .widget-title { background:url(http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/abau.png) 0 0 no-repeat;
+}
+.widget_skills_widget .widget-title, .skills_widget .widget-title { background:url(http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/skills.png) 0 0 no-repeat;
+}
+.widget_crum_widget_features .widget-title, .crum_widget_features .widget-title { background:url(http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/why.png) 0 0 no-repeat;
+}
+.widget_wp_sidebarlogin .widget-title, .wp_sidebarlogin .widget-title { background:url(http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/log.png) 0 0 no-repeat;
+}
+.widget_shopping_cart .widget-title, .shopping_cart .widget-title { background:url(http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/cart1.png) 0 0 no-repeat;
+}
+.widget_crum_shortcode_widget>.widget-title, .crum_shortcode_widget>.widget-title { background:url(http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/tabl.png) 0 0 no-repeat;
+}
+.widget_cont-map .page-block-title, .cont-map .page-block-title { background:url(http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/map1.png) 0 4px no-repeat;
+}
+@media all and (-webkit-min-device-pixel-ratio: 1.5) {
+    .widget_crum_shortcode_widget .widget-title, .crum_shortcode_widget .widget-title{ background:url('http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/tabl@2x.png') 0 0 no-repeat;} 
+.widget_crum_widget_v_accordion .widget-title, .crum_widget_v_accordion .widget-title{ background:url('http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/vt2@2x.png') 0 0 no-repeat;}
+.widget_crum_news_cat .widget-title, .crum_news_cat .widget-title{ background:url('http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/nfc@2x.png') 0 0 no-repeat;}
+.widget_crum_testimonial_widget .widget-title, .crum_testimonial_widget .widget-title{ background:url('http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/test1@2x.png') 0 0 no-repeat;}
+.widget_list_widget .widget-title, .list_widget .widget-title{ background:url('http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/rtb@2x.png') 0 0 no-repeat;}
+.widget_crum_partners_widget .widget-title, .crum_partners_widget .widget-title{ background:url('http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/part1@2x.png') 0 0 no-repeat;}
+.widget_instagram-widget .widget-title, .instagram-widget .widget-title{ background:url('http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/flickr@2x.png') 0 0 no-repeat;}
+.widget_widget_crum-text-widget .widget-title, .widget_crum-text-widget .widget-title{ background:url('http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/tb@2x.png') 0 0 no-repeat;}
+.widget_contacts-widget .widget-title, .contacts-widget .widget-title{ background:url('http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/cont2@2x.png') 0 0 no-repeat;}
+.widget_tags-widget .widget-title, .tags-widget .widget-title{ background:url('http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/tags1@2x.png') 0 0 no-repeat;}
+.widget_tabs-widget .widget-title, .tabs-widget .widget-title{ background:url('http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/tabs@2x.png') 0 0 no-repeat;}
+.widget_gallery_widget .widget-title, .gallery_widget .widget-title{ background:url('http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/rand@2x.png') 0 0 no-repeat;}
+.widget_twitter-widget .widget-title, .twitter-widget .widget-title{ background:url('http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/twit@2x.png') 0 0 no-repeat;}
+.widget_category-widget .widget-title, .category-widget .widget-title{ background:url('http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/cats@2x.png') 0 0 no-repeat;}
+.widget_facebook_widget .widget-title, .facebook_widget .widget-title{ background:url('http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/face@2x.png') 0 0 no-repeat;}
+.widget_crum_widgets_video .widget-title, .crum_widgets_video .widget-title{ background:url('http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/vid@2x.png') 0 0 no-repeat;}
+.widget_crum_news_row .widget-title, .crum_news_row .widget-title{ background:url('http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/news@2x.png') 0 0 no-repeat;}
+.widget_crum_galleries_widget .widget-title, .crum_galleries_widget .widget-title{ background:url('http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/gal@2x.png') 0 0 no-repeat;}
+.widget_about_author_widget .widget-title, .about_author_widget .widget-title{ background:url('http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/abau@2x.png') 0 0 no-repeat;}
+.widget_skills_widget .widget-title, .skills_widget .widget-title{ background:url('http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/skills@2x.png') 0 0 no-repeat;}
+.widget_crum_widget_features .widget-title, .crum_widget_features .widget-title{ background:url('http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/why@2x.png') 0 0 no-repeat;}
+.widget_wp_sidebarlogin .widget-title, .wp_sidebarlogin .widget-title{ background:url('http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/log@2x.png') 0 0 no-repeat;}
+.widget_shopping_cart .widget-title, .shopping_cart .widget-title{ background:url('http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/cart1@2x.png') 0 0 no-repeat;}
+.widget_cont-map .page-block-widget-title, .cont-map .page-block-widget-title{ background:url('http://up.crumina.net/maestro-demo/wp-content/themes/maestro/assets/img/icons/map1@2x.png') 0 4px no-repeat;}
+.widget_search-widget .widget-title, .search-widget .widget-title{ background:url('http://dev.crumina.net/maestro/wp-content/uploads/2014/04/search-icon@2x.png') 0 4px no-repeat;}
+
+}
+
+#header.horizontal #top-menu>ul>li>.menu-item-wrap:active {background: #50b4e6 !important;}
+
+
+
+
+
+
+
+
+
+

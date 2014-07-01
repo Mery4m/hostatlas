@@ -1,0 +1,10 @@
+.slider-nav a
+		{
+			background: #CCCCCC
+		}.slider-nav a:hover
+		{
+			background: #000000
+		}.item .description
+                {
+                    background: rgba(80,180,230,.82)
+                }

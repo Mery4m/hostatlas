@@ -1,0 +1,3280 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2013-03-29 17:34+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Ignacio Aguirre <ignacio@independiente.cl>\n"
+"Language: es_CL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: d:\DEVELOP\Maestro/404.php:12
+msgid "<strong>404 Error </strong>- no page here"
+msgstr "<strong>404 Error </strong>-no encuentro nada"
+
+#: d:\DEVELOP\Maestro/404.php:16
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching, or one of the links below, can help."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/404.php:20
+msgid "Look it in archives"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/404.php:29
+msgid "Search can be used"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/404.php:35
+msgid "Most Used Categoriesd"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/404.php:44
+#: d:\DEVELOP\Maestro/templates/content-search.php:17
+msgid "Tags also can be used"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/functions.php:118
+msgid "Primary Navigation"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/functions.php:119
+msgid "Footer navigation"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/page-contacts.php:103
+#: d:\DEVELOP\Maestro/page-contacts.php:152
+msgid "Leave reply"
+msgstr "Tu Comentario"
+
+#: d:\DEVELOP\Maestro/page-contacts.php:115
+msgid "You need enter email in options panel"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/page-contacts.php:124
+msgid "Thank you for your message!</h2>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/page-contacts.php:126
+msgid "Unknown error, during message sending</h2>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/page-contacts.php:130
+msgid "Wrong check code. Please try again</h2>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/page-contacts.php:139
+msgid "Enter your name"
+msgstr "Ingresa tu nombre"
+
+#: d:\DEVELOP\Maestro/page-contacts.php:140
+msgid "Your email"
+msgstr "Tu correo electrónico"
+
+#: d:\DEVELOP\Maestro/page-contacts.php:141
+msgid "Mail subject"
+msgstr "Asunto del mensaje"
+
+#: d:\DEVELOP\Maestro/page-contacts.php:197
+#: d:\DEVELOP\Maestro/inc/widgets/widget-contact.php:150
+msgid "Type your email!"
+msgstr "Ingresa tu correo electrónico!"
+
+#: d:\DEVELOP\Maestro/page-contacts.php:198
+#: d:\DEVELOP\Maestro/inc/widgets/widget-contact.php:151
+msgid "Email is incorect"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/page-contacts.php:201
+#: d:\DEVELOP\Maestro/inc/widgets/widget-contact.php:154
+msgid "Type your name!"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/page-contacts.php:204
+#: d:\DEVELOP\Maestro/inc/widgets/widget-contact.php:157
+msgid "Type the subject!"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/page-contacts.php:207
+#: d:\DEVELOP\Maestro/inc/widgets/widget-contact.php:160
+msgid "Type the message!"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/page-contacts.php:210
+#: d:\DEVELOP\Maestro/inc/widgets/widget-contact.php:163
+msgid "Type the answer!"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/page-contacts.php:211
+#: d:\DEVELOP\Maestro/inc/widgets/widget-contact.php:164
+msgid "Wrong  answer!"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/portfolio-template-1.php:53
+#: d:\DEVELOP\Maestro/tmp-portfolio-template-1.php:53
+#: d:\DEVELOP\Maestro/tmp-portfolio-template-2.php:53
+#: d:\DEVELOP\Maestro/tmp-portfolio-template-3.php:53
+#: d:\DEVELOP\Maestro/tmp-portfolio-template-4-r.php:53
+#: d:\DEVELOP\Maestro/tmp-portfolio-template-4.php:53
+#: d:\DEVELOP\Maestro/templates/block-recent.php:14
+#: d:\DEVELOP\Maestro/templates/block-recent_projects.php:10
+msgid "All"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/taxonomy.php:12
+#: d:\DEVELOP\Maestro/tmp-archive-left-img.php:49
+#: d:\DEVELOP\Maestro/tmp-archive-right-img.php:49
+#: d:\DEVELOP\Maestro/tmp-page-masonry-2-side.php:45
+#: d:\DEVELOP\Maestro/tmp-page-masonry-2.php:45
+#: d:\DEVELOP\Maestro/templates/content-grid.php:7
+#: d:\DEVELOP\Maestro/templates/content.php:6
+msgid "Sorry, no results were found."
+msgstr "Lo sentimos, no se encontraron resultados."
+
+#: d:\DEVELOP\Maestro/taxonomy.php:27
+#: d:\DEVELOP\Maestro/tmp-archive-left-img.php:252
+#: d:\DEVELOP\Maestro/tmp-archive-right-img.php:252
+#: d:\DEVELOP\Maestro/tmp-page-masonry-2-side.php:114
+#: d:\DEVELOP\Maestro/tmp-page-masonry-2.php:112
+#: d:\DEVELOP\Maestro/templates/comments.php:57
+#: d:\DEVELOP\Maestro/templates/content-grid.php:74
+#: d:\DEVELOP\Maestro/templates/content-search.php:47
+#: d:\DEVELOP\Maestro/templates/content.php:215
+#: d:\DEVELOP\Maestro/templates/top-folio.php:32
+msgid "Older"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/taxonomy.php:30
+#: d:\DEVELOP\Maestro/tmp-archive-left-img.php:255
+#: d:\DEVELOP\Maestro/tmp-archive-right-img.php:255
+#: d:\DEVELOP\Maestro/tmp-page-masonry-2-side.php:117
+#: d:\DEVELOP\Maestro/tmp-page-masonry-2.php:115
+#: d:\DEVELOP\Maestro/templates/comments.php:58
+#: d:\DEVELOP\Maestro/templates/content-grid.php:77
+#: d:\DEVELOP\Maestro/templates/content-search.php:50
+#: d:\DEVELOP\Maestro/templates/content.php:218
+#: d:\DEVELOP\Maestro/templates/top-folio.php:33
+msgid "Newer"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:55
+msgid "A Section added by hook"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:56
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array, great to allow child themes, to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:106
+msgid ""
+"<p>Panel to configure theme options. If you have any questions or "
+"suggestions, please write on our forum <a href=\"http://support.crumina.net"
+"\"/>support.crumina.net</a></p>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:132
+msgid "Theme Options"
+msgstr "Opciones del Tema"
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:135
+msgid "Crumina Theme Options panel"
+msgstr "%s Opciones del Tema"
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:162
+msgid "Theme Information 1"
+msgstr "Opciones del Tema"
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:163
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:168
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:167
+msgid "Theme Information 2"
+msgstr "Opciones del Tema"
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:189
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:204
+msgid "Main Options"
+msgstr "Opciones del Tema"
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:205
+msgid "<p class=\"description\">Main options of site</p>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:214
+msgid "Favicon"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:216
+msgid ""
+"Select a 16px X 16px image from the file location on your computer and "
+"upload it as a favicon of your site"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:221
+msgid "Header Logotype image"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:223
+msgid ""
+"Select an image from the file location on your computer and upload it as a "
+"header logotype"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:229
+msgid "Logotype text"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:231
+msgid "If you do not use logo image - you can type text here"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:239
+msgid "Logotype style"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:241
+msgid "Select what type of logo you want."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:248
+msgid "Top block with address"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:250
+msgid "Enable or disable address block"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:257
+msgid "Top adress panel"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:258
+msgid "Please do not use single qoute here"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:259
+msgid "This is top adress info block."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:266
+msgid "Language selection shortcode"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:268
+msgid ""
+"You can type shortcode of language select tht your translating plugin provide"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:275
+msgid "Fixed header"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:277
+msgid "Enable or disable fixed header"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:285
+msgid "Header variant"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:295
+msgid "Responsive mode"
+msgstr "% Respuestas a"
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:297
+msgid "Enable or disable Responsive CSS"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:304
+msgid "Custom JS"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:306
+msgid ""
+"Generate your tracking code at Google Analytics Service and insert it here."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:312
+msgid "Custom CSS"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:314
+msgid "You may add any other styles for your theme to this field."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:321
+msgid "Top panel Options"
+msgstr "Opciones del Tema"
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:331
+msgid "Display login panel"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:333
+msgid "Enable or disable login form"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:340
+msgid "Icon for panel text"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:342
+msgid "You can upload own icon here"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:347
+msgid "Title top panel"
+msgstr "T&iacute;tulo (opcional):"
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:349
+msgid "Title of right column"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:355
+msgid "Subtitle top panel"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:357
+msgid "Subtitle of right column"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:363
+msgid "Text for top panel"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:365
+msgid "Text, that will displayed in top panel"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:371
+msgid "Social accounts"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:372
+msgid "<p class=\"description\">Type links for social accounts</p>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:381
+msgid "Facebook link"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:383
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:400
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:417
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:434
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:451
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:468
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:485
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:502
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:519
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:536
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:553
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:570
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:587
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:604
+msgid "Paste link to your account"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:390
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:407
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:424
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:441
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:458
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:475
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:492
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:509
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:526
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:543
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:560
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:577
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:594
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:611
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:627
+msgid "Show in header"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:391
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:408
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:425
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:442
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:459
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:476
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:493
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:510
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:527
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:544
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:561
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:578
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:595
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:612
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:628
+msgid "If checked - will be display in header of theme "
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:398
+msgid "Twitter link"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:415
+msgid "Flickr link"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:432
+msgid "Vimeo link"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:449
+msgid "Last FM link"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:466
+msgid "Dribble link"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:483
+msgid "YouTube"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:500
+msgid "Microsoft ID"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:517
+msgid "LinkedIN"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:534
+msgid "Google +"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:551
+msgid "Picasa"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:568
+msgid "Pinterest"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:585
+msgid "Wordpress"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:602
+msgid "Dropbox"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:619
+msgid "RSS"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:621
+msgid "Paste alternative link to Rss"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:636
+msgid "Posts list options"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:637
+msgid ""
+"<p class=\"description\">Parameters for posts and archives (social share etc)"
+"</p>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:647
+msgid "Select format for posts displaying"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:657
+msgid "Social share buttons"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:659
+msgid "With this option you may activate or deactivate social share buttons."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:666
+msgid "Custom share code"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:668
+msgid "You may add any other social share buttons to this field."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:674
+msgid "Author Info"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:676
+msgid ""
+"This option enables you to insert information about the author of the post."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:683
+msgid "Links in author info"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:685
+msgid "Enable or disable additional links in author box"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:703
+msgid "Thumbnail on inner page"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:705
+msgid "Display featured image on single post"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:706
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:734
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:764
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:798
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:820
+msgid "On"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:706
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:734
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:764
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:798
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:820
+msgid "Off"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:713
+msgid "Post thumbnail width (in px)"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:722
+msgid "Post  thumbnail height (in px)"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:731
+msgid "Post info"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:733
+msgid ""
+"It is information about the post (time and date of creation, author, "
+"comments on the post)."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:743
+msgid "Portfolio Options"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:753
+msgid "Portfolio page"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:755
+msgid "Please select main portfolio page (for proper urls)"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:761
+msgid "Sorting items"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:770
+msgid "Portfolio columns"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:785
+msgid "Portfolio style"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:788
+msgid "Square"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:788
+msgid "Round"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:795
+msgid "Date in portfolio"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:805
+msgid "Portfolio text location"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:817
+msgid "Featured image"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:826
+msgid "Portfolio image display"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:838
+msgid "Sort images in portfolio single"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:847
+msgid "Images order"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:860
+msgid "Unlimited sidebars"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:861
+msgid "<p class=\"description\">Add or delete your own sidebars</p>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:870
+msgid "Custom sidebar name"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:872
+msgid "You may create a custom sidebar to be displayed on a single page."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:880
+msgid "Styling Options"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:881
+msgid "<p class=\"description\">Style parameters of body and footer</p>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:892
+msgid "Site color version"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:902
+msgid "Main menu alignment"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:914
+msgid "Body layout"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:928
+msgid "Main site color"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:930
+msgid "Color of buttons, tabs, links, borders etc."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:936
+msgid "Secondary site color"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:938
+msgid "Color of inactive or hovered elements"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:946
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:973
+msgid "Body background color"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:948
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:975
+msgid "Select background color."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:954
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:981
+msgid "Custom background image"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:956
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:983
+msgid "Upload your own background image or pattern."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:961
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:988
+msgid "Background image repeat"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:963
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:990
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1031
+msgid "Select type background image repeat"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:997
+msgid "Fixed body background"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1006
+msgid "Footer background color"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1008
+msgid "Select footer background color. "
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1014
+msgid "Footer font color"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1016
+msgid "Select footer font color."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1022
+msgid "Custom footer background image"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1024
+msgid "Upload your own footer background image or pattern."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1029
+msgid "Footer background image repeat"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1042
+msgid "Contact page options"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1043
+msgid "<p class=\"description\">Contact page options</p>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1052
+msgid "Text on top"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1054
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1059
+msgid "Adress in contact page"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1064
+msgid "Additional text "
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1069
+msgid "Address on Google Map "
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1071
+msgid "Fill in your address to be shown on Google map."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1077
+msgid "Form address"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1079
+msgid "Email address for contact form"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1087
+msgid "Footer section options"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1088
+msgid "<p class=\"description\">Footer section options</p>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1098
+msgid "Display twitter statuses before footer"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1105
+msgid "Cache Tweets in every:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1106
+msgid "In Hours"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1111
+msgid "Number of latest tweets display:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1117
+msgid "Username:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1127
+msgid "Layouts Settings"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1128
+msgid "<p class=\"description\">Configure layouts of different pages</p>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1133
+msgid "Single pages layout"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1134
+msgid "Select one type of layout for single pages"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1149
+msgid "Archive Pages Layout"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1150
+msgid "Select one type of layout for archive pages"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1165
+msgid "Single posts layout"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1166
+msgid "Select one type of layout for single posts"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1181
+msgid "Search results layout"
+msgstr "Resultados de la b&uacute;squeda para"
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1182
+msgid "Select one type of layout for search results"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1197
+msgid "404 Page Layout"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1198
+msgid "Select one of layouts for 404 page"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1214
+msgid "Icons customization"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1224
+msgid "Recent from portfolio block"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1232
+msgid "News from category block"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1240
+msgid "Styled list widget"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1248
+msgid "Testimonial block"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1256
+msgid "Partners logo block"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1264
+msgid "Flickr widget"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1272
+msgid "Text widget"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1280
+msgid "VCard widget"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1288
+msgid "Tags widget"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1296
+msgid "Tabs-posts widget"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1304
+msgid "From portfolio widget"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1312
+msgid "Twitter widget"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1320
+msgid "Category widget"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1328
+#: d:\DEVELOP\Maestro/inc/widgets/widget-facebook.php:29
+msgid "Facebook widget"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1336
+msgid "oEmbed widget"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1344
+#: d:\DEVELOP\Maestro/inc/modules/accordion-v/accordion-v.php:10
+msgid "Vertical tabs block"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1352
+msgid "News row box"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1360
+msgid "Galleries block"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1368
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1376
+msgid "About author block"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1384
+msgid "Shortcode block"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1392
+msgid "Features list block"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1400
+msgid "Login widget"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1408
+msgid "Shopping cart widget"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1416
+msgid "Accordion block"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1423
+msgid "Map block"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1433
+msgid "Typography"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1434
+msgid "<p class=\"description\">Typography settings</p>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1443
+msgid "Body main font size"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1445
+msgid "Select font size."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1452
+msgid "Body main font color"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1454
+msgid "Select font color."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1460
+msgid "H1 elements style"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1469
+msgid "H1 elements color"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1470
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1488
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1506
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1524
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1541
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1560
+msgid "Click on field to choose color"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1477
+msgid "H2 elements style"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1487
+msgid "H2 elements color"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1495
+msgid "H3 elements style"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1505
+msgid "H3 elements color"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1513
+msgid "H4 elements style"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1523
+msgid "H4 elements color"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1531
+msgid "H5 elements style"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1540
+msgid "H5 elements color"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1548
+msgid "H6 elements style"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1558
+msgid "H6 elements color"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1589
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1590
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1591
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1593
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1600
+msgid "Theme Information"
+msgstr "Opciones del Tema"
+
+#: d:\DEVELOP\Maestro/admin/nhp-options.php:1607
+msgid "Documentation"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/options.php:49
+#: d:\DEVELOP\Maestro/admin/options/options.php:51
+msgid "Options"
+msgstr "Opciones del Tema"
+
+#: d:\DEVELOP\Maestro/admin/options/options.php:63
+msgid "<span id=\"footer-thankyou\">Options Panel created using the <a href=\""
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/options.php:277
+#: d:\DEVELOP\Maestro/admin/options/options.php:278
+#: d:\DEVELOP\Maestro/admin/options/options.php:719
+msgid "Import / Export"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/options.php:304
+#: d:\DEVELOP\Maestro/admin/options/options.php:305
+#: d:\DEVELOP\Maestro/admin/options/options.php:738
+#: d:\DEVELOP\Maestro/admin/options/options.php:820
+msgid "Dev Mode Info"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/options.php:360
+msgid "Are you sure? Resetting will loose all custom values."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/options.php:684
+#: d:\DEVELOP\Maestro/admin/options/options.php:845
+msgid "Reset to Defaults"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/options.php:690
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/options.php:692
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/options.php:697
+msgid "<strong>Settings have changed!, you should save them!</strong>"
+msgstr "<strong>La configuracion ha cambiado! Salvala!</strong>"
+
+#: d:\DEVELOP\Maestro/admin/options/options.php:698
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/options.php:700
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/options.php:756
+msgid "Import / Export Options"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/options.php:758
+msgid "Import Options"
+msgstr "Opciones del Tema"
+
+#: d:\DEVELOP\Maestro/admin/options/options.php:766
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/options.php:779
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/options.php:789
+msgid "Import"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/options.php:789
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/options.php:792
+msgid "Export Options"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/options.php:794
+msgid ""
+"Here you can copy/download your themes current option settings. Keep this "
+"safe as you can use it as a backup should anything go wrong. Or you can use "
+"it to restore your settings on this site (or any other site). You also have "
+"the handy option to copy the link to yours sites settings. Which you can "
+"then use to duplicate on another site"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/fields/color_gradient/field_color_gradient.php:35
+msgid "From:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/fields/color_gradient/field_color_gradient.php:38
+msgid " To:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/fields/google_webfonts/field_google_webfonts.php:25
+msgid ""
+"The fonts provided below are free to use custom fonts from the <a href="
+"\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts "
+"directory</a>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/fields/multi_text/field_multi_text.php:39
+#: d:\DEVELOP\Maestro/admin/options/fields/multi_text/field_multi_text.php:46
+#: d:\DEVELOP\Maestro/admin/options/fields/multi_text/field_multi_text.php:50
+#: d:\DEVELOP\Maestro/inc/category_extend/tax-meta-class.php:582
+#: d:\DEVELOP\Maestro/inc/category_extend/tax-meta-class.php:629
+#: d:\DEVELOP\Maestro/inc/category_extend/tax-meta-class/tax-meta-class.php:582
+#: d:\DEVELOP\Maestro/inc/category_extend/tax-meta-class/tax-meta-class.php:629
+msgid "Remove"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/fields/multi_text/field_multi_text.php:54
+msgid "Add More"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/fields/upload/field_upload.php:39
+msgid "Browse"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/fields/upload/field_upload.php:40
+msgid "Remove Upload"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/validation/color/validation_color.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/admin/options/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/actions.php:82
+msgid "Prev"
+msgstr "Atrás"
+
+#: d:\DEVELOP\Maestro/inc/actions.php:83
+msgid "Next"
+msgstr "Adelante"
+
+#: d:\DEVELOP\Maestro/inc/actions.php:104
+#: d:\DEVELOP\Maestro/templates/top-forum.php:60
+msgid "Home"
+msgstr "Inicio"
+
+#: d:\DEVELOP\Maestro/inc/actions.php:105
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr "Archivos de la Categoría \"%s\""
+
+#: d:\DEVELOP\Maestro/inc/actions.php:106
+msgid "Search Results for \"%s\" Query"
+msgstr "Resultados de la b&uacute;squeda para"
+
+#: d:\DEVELOP\Maestro/inc/actions.php:107
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/actions.php:108
+#, php-format
+msgid "Articles Posted by %s"
+msgstr "Artículos publicados por %s"
+
+#: d:\DEVELOP\Maestro/inc/actions.php:109
+msgid "Error 404"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/actions.php:239
+msgid "Page"
+msgstr "P&aacute;ginas"
+
+#: d:\DEVELOP\Maestro/inc/cleanup.php:259
+msgid "Continue reading &#187;"
+msgstr "Leer mas &#187;"
+
+#: d:\DEVELOP\Maestro/inc/cleanup_old.php:261
+msgid "Continued"
+msgstr "Continuado"
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:9
+msgid "Custom Types"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:10
+msgid "Custom Post"
+msgstr "&Uacute;ltimas Publicaciones"
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:11
+#: d:\DEVELOP\Maestro/inc/post-type.php:10
+msgid "Add New"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:12
+msgid "Add New Custom Type"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:13
+msgid "Edit"
+msgstr "(Editar)"
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:14
+msgid "Edit Post Types"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:15
+msgid "New Post Type"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:16
+msgid "View Post Type"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:17
+msgid "Search Post Type"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:18
+msgid "Nothing found in the Database."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:19
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:22
+msgid "This is the example custom post type"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:58
+msgid "Custom Categories"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:59
+msgid "Custom Category"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:60
+msgid "Search Custom Categories"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:61
+msgid "All Custom Categories"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:62
+msgid "Parent Custom Category"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:63
+msgid "Parent Custom Category:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:64
+msgid "Edit Custom Category"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:65
+msgid "Update Custom Category"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:66
+msgid "Add New Custom Category"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:67
+msgid "New Custom Category Name"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:79
+msgid "Custom Tags"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:80
+msgid "Custom Tag"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:81
+msgid "Search Custom Tags"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:82
+msgid "All Custom Tags"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:83
+msgid "Parent Custom Tag"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:84
+msgid "Parent Custom Tag:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:85
+msgid "Edit Custom Tag"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:86
+msgid "Update Custom Tag"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:87
+msgid "Add New Custom Tag"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/custom-post-type.php:88
+msgid "New Custom Tag Name"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:8
+msgid "Portfolios"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:9
+msgid "Portfolio"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:11
+msgid "Add New Portfolio item"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:12
+msgid "Edit Portfolio item"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:13
+msgid "New Portfolio item"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:14
+msgid "All Portfolio items"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:15
+msgid "View Portfolio item"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:16
+msgid "Search Portfolios item"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:17
+msgid "No products found"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:18
+msgid "No products found in the Trash"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:39
+msgid "Portfolio updated. <a href=\"%s\">View product</a>"
+msgstr "Por favor actualiza tu <a href=\"%s\">descripci&oacte;n del sitio</a>"
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:40
+msgid "Custom field updated."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:41
+msgid "Custom field deleted."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:42
+msgid "Portfolio updated."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:43
+#, php-format
+msgid "Portfolio restored to revision from %s"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:44
+msgid "Portfolio published. <a href=\"%s\">View product</a>"
+msgstr "Regresar a la <a href=\"%s\">p&aacute;gina de inicio</a>"
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:45
+msgid "Portfolio saved."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:46
+#, php-format
+msgid ""
+"Portfolio submitted. <a target=\"_blank\" href=\"%s\">Preview product</a>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:47
+#, php-format
+msgid ""
+"Portfolio scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview product</a>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:47
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:48
+#, php-format
+msgid ""
+"Portfolio draft updated. <a target=\"_blank\" href=\"%s\">Preview product</a>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:73
+#: d:\DEVELOP\Maestro/inc/post-type.php:83
+msgid "Portfolio Categories"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:74
+msgid "Portfolio Category"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:75
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:76
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:77
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:78
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:79
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:80
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:81
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:82
+msgid "New Portfolio Category"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:101
+msgid "Testimonials"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:102
+msgid "Testimonial"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:103
+msgid "Add New Testimonial"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:104
+msgid "Edit Testimonial"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:105
+msgid "New Testimonial"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:106
+msgid "All Testimonials"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:107
+msgid "View Testimonial"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:108
+msgid "Search Testimonial"
+msgstr "Resultados de la b&uacute;squeda para"
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:109
+msgid "No testimonial found"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:110
+msgid "No testimonial found in the Trash"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:132
+msgid "Clients / Partners"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:133
+msgid "Client / Partner"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:134
+msgid "Add New Client / Partner"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:135
+msgid "Edit Client / Partner"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:136
+msgid "New Client / Partner"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:137
+msgid "All Clients / Partners"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:138
+msgid "View Client / Partner"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:139
+msgid "Search Client / Partner"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:140
+msgid "No Client / Partner found"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:141
+msgid "No Client / Partner found in the Trash"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:163
+msgid "Features"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:164
+msgid "Feature"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:165
+msgid "Add New Feature"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:166
+msgid "Edit Feature"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:167
+msgid "New Feature"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:168
+msgid "All Features"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:169
+msgid "View Feature"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:170
+msgid "Search Feature"
+msgstr "Buscar por:"
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:171
+msgid "No Feature found"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:172
+msgid "No Feature found in the Trash"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:194
+msgid "Galleries"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:195
+msgid "Gallery"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:196
+msgid "Add New Gallery"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:197
+msgid "Edit Gallery"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:198
+msgid "New Gallery"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:199
+msgid "All Galleries"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:200
+msgid "View Gallery"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:201
+msgid "Search Gallery"
+msgstr "Buscar por:"
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:202
+msgid "No Gallery found"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:203
+msgid "No Gallery found in the Trash"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:222
+msgid "Mega menu"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:223
+msgid "Crumina Mega Menu"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:224
+msgid "Add New Menu Item"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:225
+msgid "Edit Menu Item"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:226
+msgid "Search Menu Items"
+msgstr "Resultados de la b&uacute;squeda para"
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:227
+msgid "Sorry: Menu Item Not Found"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/post-type.php:228
+msgid "Sorry: Menu Item Not Found In Trash"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets.php:8
+msgid "Left Sidebar"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets.php:16
+msgid "Right Sidebar"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets.php:25
+msgid "Before footer"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets.php:34
+msgid "Footer column 1"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets.php:42
+msgid "Footer column 2"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets.php:50
+msgid "Footer column 3"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets.php:59
+msgid "Sidebar for shop"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/category_extend/crum-cat-tax.php:41
+msgid "Category icon"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/category_extend/tax-meta-class.php:250
+#: d:\DEVELOP\Maestro/inc/category_extend/tax-meta-class/tax-meta-class.php:250
+msgid "Delete this image"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/category_extend/tax-meta-class.php:250
+#: d:\DEVELOP\Maestro/inc/category_extend/tax-meta-class.php:882
+#: d:\DEVELOP\Maestro/inc/category_extend/tax-meta-class/tax-meta-class.php:250
+#: d:\DEVELOP\Maestro/inc/category_extend/tax-meta-class/tax-meta-class.php:882
+msgid "Delete"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/category_extend/tax-meta-class.php:357
+#: d:\DEVELOP\Maestro/inc/category_extend/tax-meta-class/tax-meta-class.php:357
+msgid "Cannot delete file. Something's wrong."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/category_extend/tax-meta-class.php:595
+#: d:\DEVELOP\Maestro/inc/category_extend/tax-meta-class/tax-meta-class.php:595
+msgid "Add"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/category_extend/tax-meta-class.php:878
+#: d:\DEVELOP\Maestro/inc/category_extend/tax-meta-class/tax-meta-class.php:878
+msgid "Uploaded files"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/category_extend/tax-meta-class.php:889
+#: d:\DEVELOP\Maestro/inc/category_extend/tax-meta-class/tax-meta-class.php:889
+msgid "Upload new files"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/category_extend/tax-meta-class.php:895
+#: d:\DEVELOP\Maestro/inc/category_extend/tax-meta-class/tax-meta-class.php:895
+msgid "Add more files"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/category_extend/tax-meta-class.php:947
+#: d:\DEVELOP\Maestro/inc/category_extend/tax-meta-class/tax-meta-class.php:947
+msgid "Select a color"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/about-author/about-author.php:9
+#: d:\DEVELOP\Maestro/inc/widgets/widget-about-author.php:9
+msgid "Block with author info / pic"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/about-author/about-author.php:109
+#: d:\DEVELOP\Maestro/inc/modules/accordion/accordion.php:130
+#: d:\DEVELOP\Maestro/inc/modules/accordion-v/accordion-v.php:124
+#: d:\DEVELOP\Maestro/inc/modules/block-click/block-click.php:76
+#: d:\DEVELOP\Maestro/inc/modules/block-desc/block-desc.php:78
+#: d:\DEVELOP\Maestro/inc/modules/call-to-action/call-to-action.php:77
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:200
+#: d:\DEVELOP\Maestro/inc/modules/galleries/galleries.php:193
+#: d:\DEVELOP\Maestro/inc/modules/last-3-posts/last-3-posts.php:252
+#: d:\DEVELOP\Maestro/inc/modules/map/map.php:134
+#: d:\DEVELOP\Maestro/inc/modules/news-cat/news-cat.php:187
+#: d:\DEVELOP\Maestro/inc/modules/news-row/news-row.php:209
+#: d:\DEVELOP\Maestro/inc/modules/one-gallery/one-gallery.php:182
+#: d:\DEVELOP\Maestro/inc/modules/partners-logo/partners-logo.php:159
+#: d:\DEVELOP\Maestro/inc/modules/shortcode/shortcode.php:109
+#: d:\DEVELOP\Maestro/inc/modules/skills/skills.php:129
+#: d:\DEVELOP\Maestro/inc/modules/sticky-posts/sticky-posts.php:162
+#: d:\DEVELOP\Maestro/inc/modules/tabs/tabs.php:88
+#: d:\DEVELOP\Maestro/inc/modules/testemonials/testemonials.php:180
+#: d:\DEVELOP\Maestro/inc/widgets/call-to-action.php:67
+#: d:\DEVELOP\Maestro/inc/widgets/category-tiled.php:93
+#: d:\DEVELOP\Maestro/inc/widgets/recent-posts.php:108
+#: d:\DEVELOP\Maestro/inc/widgets/search-subtitle.php:100
+#: d:\DEVELOP\Maestro/inc/widgets/sticky-posts.php:165
+#: d:\DEVELOP\Maestro/inc/widgets/tags-subtitle.php:88
+#: d:\DEVELOP\Maestro/inc/widgets/text-subtitle.php:118
+#: d:\DEVELOP\Maestro/inc/widgets/widget-about-author.php:119
+#: d:\DEVELOP\Maestro/inc/widgets/widget-accordion.php:87
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-click.php:91
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-desc.php:67
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-tabs.php:90
+#: d:\DEVELOP\Maestro/inc/widgets/widget-contact.php:228
+#: d:\DEVELOP\Maestro/inc/widgets/widget-facebook.php:110
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:189
+#: d:\DEVELOP\Maestro/inc/widgets/widget-flickr.php:97
+#: d:\DEVELOP\Maestro/inc/widgets/widget-galleries.php:183
+#: d:\DEVELOP\Maestro/inc/widgets/widget-gallery.php:77
+#: d:\DEVELOP\Maestro/inc/widgets/widget-latest-3-news.php:240
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-cat.php:182
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-row.php:201
+#: d:\DEVELOP\Maestro/inc/widgets/widget-partnes.php:152
+#: d:\DEVELOP\Maestro/inc/widgets/widget-search.php:106
+#: d:\DEVELOP\Maestro/inc/widgets/widget-shortcode.php:101
+#: d:\DEVELOP\Maestro/inc/widgets/widget-skills.php:121
+#: d:\DEVELOP\Maestro/inc/widgets/widget-styled-list.php:85
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tabs.php:143
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tags.php:95
+#: d:\DEVELOP\Maestro/inc/widgets/widget-testimonials.php:171
+#: d:\DEVELOP\Maestro/inc/widgets/widget-text.php:59
+#: d:\DEVELOP\Maestro/inc/widgets/widget-video.php:27
+#: d:\DEVELOP\Maestro/inc/widgets/widget-video.php:165
+#: d:\DEVELOP\Maestro/inc/widgets/widget_categories.php:107
+msgid "Title:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/about-author/about-author.php:113
+#: d:\DEVELOP\Maestro/inc/modules/accordion/accordion.php:134
+#: d:\DEVELOP\Maestro/inc/modules/accordion-v/accordion-v.php:128
+#: d:\DEVELOP\Maestro/inc/modules/block-click/block-click.php:80
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:204
+#: d:\DEVELOP\Maestro/inc/modules/galleries/galleries.php:197
+#: d:\DEVELOP\Maestro/inc/modules/last-3-posts/last-3-posts.php:256
+#: d:\DEVELOP\Maestro/inc/modules/map/map.php:138
+#: d:\DEVELOP\Maestro/inc/modules/news-cat/news-cat.php:191
+#: d:\DEVELOP\Maestro/inc/modules/news-row/news-row.php:213
+#: d:\DEVELOP\Maestro/inc/modules/one-gallery/one-gallery.php:186
+#: d:\DEVELOP\Maestro/inc/modules/partners-logo/partners-logo.php:163
+#: d:\DEVELOP\Maestro/inc/modules/shortcode/shortcode.php:113
+#: d:\DEVELOP\Maestro/inc/modules/sticky-posts/sticky-posts.php:166
+#: d:\DEVELOP\Maestro/inc/modules/testemonials/testemonials.php:184
+#: d:\DEVELOP\Maestro/inc/widgets/category-tiled.php:97
+#: d:\DEVELOP\Maestro/inc/widgets/recent-posts.php:112
+#: d:\DEVELOP\Maestro/inc/widgets/search-subtitle.php:104
+#: d:\DEVELOP\Maestro/inc/widgets/sticky-posts.php:169
+#: d:\DEVELOP\Maestro/inc/widgets/tags-subtitle.php:92
+#: d:\DEVELOP\Maestro/inc/widgets/text-subtitle.php:122
+#: d:\DEVELOP\Maestro/inc/widgets/widget-about-author.php:123
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-click.php:95
+#: d:\DEVELOP\Maestro/inc/widgets/widget-contact.php:235
+#: d:\DEVELOP\Maestro/inc/widgets/widget-facebook.php:114
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:193
+#: d:\DEVELOP\Maestro/inc/widgets/widget-flickr.php:101
+#: d:\DEVELOP\Maestro/inc/widgets/widget-galleries.php:187
+#: d:\DEVELOP\Maestro/inc/widgets/widget-gallery.php:81
+#: d:\DEVELOP\Maestro/inc/widgets/widget-latest-3-news.php:244
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-cat.php:186
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-row.php:205
+#: d:\DEVELOP\Maestro/inc/widgets/widget-partnes.php:156
+#: d:\DEVELOP\Maestro/inc/widgets/widget-search.php:110
+#: d:\DEVELOP\Maestro/inc/widgets/widget-shortcode.php:105
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tabs.php:147
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tags.php:99
+#: d:\DEVELOP\Maestro/inc/widgets/widget-testimonials.php:175
+#: d:\DEVELOP\Maestro/inc/widgets/widget-text.php:63
+#: d:\DEVELOP\Maestro/inc/widgets/widget-video.php:32
+#: d:\DEVELOP\Maestro/inc/widgets/widget-video.php:169
+#: d:\DEVELOP\Maestro/inc/widgets/widget_categories.php:111
+msgid "Subtitle:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/about-author/about-author.php:117
+#: d:\DEVELOP\Maestro/inc/modules/block-click/block-click.php:84
+#: d:\DEVELOP\Maestro/inc/modules/block-desc/block-desc.php:82
+#: d:\DEVELOP\Maestro/inc/widgets/widget-about-author.php:127
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-click.php:99
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-desc.php:71
+msgid "Text"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/about-author/about-author.php:122
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:208
+#: d:\DEVELOP\Maestro/inc/modules/galleries/galleries.php:201
+#: d:\DEVELOP\Maestro/inc/modules/last-3-posts/last-3-posts.php:260
+#: d:\DEVELOP\Maestro/inc/modules/news-cat/news-cat.php:199
+#: d:\DEVELOP\Maestro/inc/modules/news-row/news-row.php:217
+#: d:\DEVELOP\Maestro/inc/modules/one-gallery/one-gallery.php:190
+#: d:\DEVELOP\Maestro/inc/modules/partners-logo/partners-logo.php:167
+#: d:\DEVELOP\Maestro/inc/modules/sticky-posts/sticky-posts.php:174
+#: d:\DEVELOP\Maestro/inc/modules/testemonials/testemonials.php:192
+#: d:\DEVELOP\Maestro/inc/widgets/sticky-posts.php:177
+#: d:\DEVELOP\Maestro/inc/widgets/widget-about-author.php:132
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:197
+#: d:\DEVELOP\Maestro/inc/widgets/widget-galleries.php:191
+#: d:\DEVELOP\Maestro/inc/widgets/widget-latest-3-news.php:248
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-cat.php:194
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-row.php:209
+#: d:\DEVELOP\Maestro/inc/widgets/widget-partnes.php:160
+#: d:\DEVELOP\Maestro/inc/widgets/widget-testimonials.php:183
+msgid "Link to full page"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/about-author/about-author.php:127
+#: d:\DEVELOP\Maestro/inc/modules/block-desc/block-desc.php:91
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:213
+#: d:\DEVELOP\Maestro/inc/modules/galleries/galleries.php:206
+#: d:\DEVELOP\Maestro/inc/modules/last-3-posts/last-3-posts.php:265
+#: d:\DEVELOP\Maestro/inc/modules/news-cat/news-cat.php:204
+#: d:\DEVELOP\Maestro/inc/modules/news-row/news-row.php:222
+#: d:\DEVELOP\Maestro/inc/modules/one-gallery/one-gallery.php:195
+#: d:\DEVELOP\Maestro/inc/modules/partners-logo/partners-logo.php:172
+#: d:\DEVELOP\Maestro/inc/modules/sticky-posts/sticky-posts.php:179
+#: d:\DEVELOP\Maestro/inc/modules/testemonials/testemonials.php:197
+#: d:\DEVELOP\Maestro/inc/widgets/sticky-posts.php:182
+#: d:\DEVELOP\Maestro/inc/widgets/widget-about-author.php:137
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-desc.php:80
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:202
+#: d:\DEVELOP\Maestro/inc/widgets/widget-galleries.php:196
+#: d:\DEVELOP\Maestro/inc/widgets/widget-latest-3-news.php:253
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-cat.php:199
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-row.php:214
+#: d:\DEVELOP\Maestro/inc/widgets/widget-partnes.php:165
+#: d:\DEVELOP\Maestro/inc/widgets/widget-styled-list.php:103
+#: d:\DEVELOP\Maestro/inc/widgets/widget-testimonials.php:188
+msgid "Link label"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/about-author/about-author.php:132
+#: d:\DEVELOP\Maestro/inc/modules/block-click/block-click.php:94
+#: d:\DEVELOP\Maestro/inc/widgets/widget-about-author.php:142
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-click.php:109
+msgid "Image"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/about-author/about-author.php:134
+#: d:\DEVELOP\Maestro/inc/modules/block-click/block-click.php:96
+#: d:\DEVELOP\Maestro/inc/modules/block-click/block-click.php:102
+#: d:\DEVELOP\Maestro/inc/modules/last-3-posts/last-3-posts.php:325
+#: d:\DEVELOP\Maestro/inc/widgets/widget-about-author.php:144
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-click.php:111
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-click.php:117
+msgid "Select Image"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/about-author/about-author.php:137
+#: d:\DEVELOP\Maestro/inc/widgets/widget-about-author.php:147
+msgid "Author name"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/about-author/about-author.php:141
+#: d:\DEVELOP\Maestro/inc/widgets/widget-about-author.php:151
+msgid "Author additional"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/accordion/accordion.php:139
+#: d:\DEVELOP\Maestro/inc/modules/accordion/accordion.php:147
+#: d:\DEVELOP\Maestro/inc/modules/accordion/accordion.php:155
+#: d:\DEVELOP\Maestro/inc/modules/accordion/accordion.php:163
+#: d:\DEVELOP\Maestro/inc/modules/accordion-v/accordion-v.php:133
+#: d:\DEVELOP\Maestro/inc/modules/accordion-v/accordion-v.php:141
+#: d:\DEVELOP\Maestro/inc/modules/accordion-v/accordion-v.php:149
+#: d:\DEVELOP\Maestro/inc/modules/accordion-v/accordion-v.php:157
+#: d:\DEVELOP\Maestro/inc/widgets/widget-accordion.php:102
+#: d:\DEVELOP\Maestro/inc/widgets/widget-accordion.php:114
+#: d:\DEVELOP\Maestro/inc/widgets/widget-accordion.php:122
+#: d:\DEVELOP\Maestro/inc/widgets/widget-accordion.php:130
+#: d:\DEVELOP\Maestro/inc/widgets/widget-accordion.php:138
+#: d:\DEVELOP\Maestro/inc/widgets/widget-accordion.php:146
+msgid "Section Title:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/accordion/accordion.php:143
+#: d:\DEVELOP\Maestro/inc/modules/accordion/accordion.php:151
+#: d:\DEVELOP\Maestro/inc/modules/accordion/accordion.php:159
+#: d:\DEVELOP\Maestro/inc/modules/accordion/accordion.php:167
+#: d:\DEVELOP\Maestro/inc/modules/accordion-v/accordion-v.php:137
+#: d:\DEVELOP\Maestro/inc/modules/accordion-v/accordion-v.php:145
+#: d:\DEVELOP\Maestro/inc/modules/accordion-v/accordion-v.php:153
+#: d:\DEVELOP\Maestro/inc/modules/accordion-v/accordion-v.php:161
+msgid "Content:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/accordion-v/accordion-v.php:9
+msgid "Box: Vertical tab"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/block-click/block-click.php:7
+msgid "Box: Clickable promo block"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/block-click/block-click.php:8
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-click.php:9
+msgid "Promo block with link itself"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/block-click/block-click.php:89
+#: d:\DEVELOP\Maestro/inc/modules/block-desc/block-desc.php:87
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-click.php:104
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-desc.php:76
+#: d:\DEVELOP\Maestro/inc/widgets/widget-styled-list.php:99
+msgid "Link"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/block-click/block-click.php:100
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-click.php:115
+msgid "Hover image"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/block-desc/block-desc.php:20
+msgid "Text block with title + desc + butt"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/call-to-action/call-to-action.php:79
+#: d:\DEVELOP\Maestro/inc/widgets/call-to-action.php:69
+msgid "Title Tag:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/call-to-action/call-to-action.php:86
+#: d:\DEVELOP\Maestro/inc/widgets/call-to-action.php:76
+msgid "Description:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/call-to-action/call-to-action.php:89
+#: d:\DEVELOP\Maestro/inc/widgets/call-to-action.php:79
+msgid "Alignment:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/call-to-action/call-to-action.php:96
+#: d:\DEVELOP\Maestro/inc/widgets/call-to-action.php:86
+msgid "Button Label:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/call-to-action/call-to-action.php:99
+#: d:\DEVELOP\Maestro/inc/widgets/call-to-action.php:89
+msgid "Button URL:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/call-to-action/call-to-action.php:102
+#: d:\DEVELOP\Maestro/inc/widgets/call-to-action.php:92
+msgid "Button Height:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/call-to-action/call-to-action.php:104
+#: d:\DEVELOP\Maestro/inc/widgets/call-to-action.php:94
+msgid "Button Width:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/call-to-action/call-to-action.php:106
+#: d:\DEVELOP\Maestro/inc/widgets/call-to-action.php:96
+msgid "Button Font Size:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:20
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:9
+msgid "Display Features with icons"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:42
+#: d:\DEVELOP\Maestro/inc/modules/galleries/galleries.php:44
+#: d:\DEVELOP\Maestro/inc/modules/last-3-posts/last-3-posts.php:42
+#: d:\DEVELOP\Maestro/inc/modules/news-cat/news-cat.php:42
+#: d:\DEVELOP\Maestro/inc/modules/news-row/news-row.php:42
+#: d:\DEVELOP\Maestro/inc/modules/one-gallery/one-gallery.php:44
+#: d:\DEVELOP\Maestro/inc/modules/partners-logo/partners-logo.php:42
+#: d:\DEVELOP\Maestro/inc/modules/sticky-posts/sticky-posts.php:32
+#: d:\DEVELOP\Maestro/inc/modules/testemonials/testemonials.php:42
+#: d:\DEVELOP\Maestro/inc/widgets/sticky-posts.php:31
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:31
+#: d:\DEVELOP\Maestro/inc/widgets/widget-galleries.php:31
+#: d:\DEVELOP\Maestro/inc/widgets/widget-latest-3-news.php:31
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-cat.php:31
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-row.php:31
+#: d:\DEVELOP\Maestro/inc/widgets/widget-partnes.php:31
+#: d:\DEVELOP\Maestro/inc/widgets/widget-testimonials.php:31
+msgid "Latest articles"
+msgstr "&Uacute;ltimas Publicaciones"
+
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:218
+#: d:\DEVELOP\Maestro/inc/modules/partners-logo/partners-logo.php:178
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:207
+#: d:\DEVELOP\Maestro/inc/widgets/widget-partnes.php:171
+msgid "Link for details page"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:221
+#: d:\DEVELOP\Maestro/inc/modules/partners-logo/partners-logo.php:181
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:210
+#: d:\DEVELOP\Maestro/inc/widgets/widget-partnes.php:174
+msgid "Yes"
+msgstr "Si"
+
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:222
+#: d:\DEVELOP\Maestro/inc/modules/partners-logo/partners-logo.php:182
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:211
+#: d:\DEVELOP\Maestro/inc/widgets/widget-partnes.php:175
+msgid "No"
+msgstr "No"
+
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:228
+#: d:\DEVELOP\Maestro/inc/modules/galleries/galleries.php:211
+#: d:\DEVELOP\Maestro/inc/modules/last-3-posts/last-3-posts.php:287
+#: d:\DEVELOP\Maestro/inc/modules/news-cat/news-cat.php:226
+#: d:\DEVELOP\Maestro/inc/modules/news-row/news-row.php:244
+#: d:\DEVELOP\Maestro/inc/modules/one-gallery/one-gallery.php:200
+#: d:\DEVELOP\Maestro/inc/modules/sticky-posts/sticky-posts.php:201
+#: d:\DEVELOP\Maestro/inc/modules/testemonials/testemonials.php:203
+#: d:\DEVELOP\Maestro/inc/widgets/sticky-posts.php:204
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:217
+#: d:\DEVELOP\Maestro/inc/widgets/widget-galleries.php:201
+#: d:\DEVELOP\Maestro/inc/widgets/widget-latest-3-news.php:275
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-cat.php:221
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-row.php:236
+#: d:\DEVELOP\Maestro/inc/widgets/widget-testimonials.php:194
+msgid "Order posts"
+msgstr "&larr; Publicaciones anteriores"
+
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:231
+#: d:\DEVELOP\Maestro/inc/modules/galleries/galleries.php:214
+#: d:\DEVELOP\Maestro/inc/modules/last-3-posts/last-3-posts.php:290
+#: d:\DEVELOP\Maestro/inc/modules/news-cat/news-cat.php:229
+#: d:\DEVELOP\Maestro/inc/modules/news-row/news-row.php:247
+#: d:\DEVELOP\Maestro/inc/modules/one-gallery/one-gallery.php:203
+#: d:\DEVELOP\Maestro/inc/modules/sticky-posts/sticky-posts.php:204
+#: d:\DEVELOP\Maestro/inc/modules/testemonials/testemonials.php:206
+#: d:\DEVELOP\Maestro/inc/widgets/sticky-posts.php:207
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:220
+#: d:\DEVELOP\Maestro/inc/widgets/widget-galleries.php:204
+#: d:\DEVELOP\Maestro/inc/widgets/widget-latest-3-news.php:278
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-cat.php:224
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-row.php:239
+#: d:\DEVELOP\Maestro/inc/widgets/widget-testimonials.php:197
+msgid "Descending"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:232
+#: d:\DEVELOP\Maestro/inc/modules/galleries/galleries.php:215
+#: d:\DEVELOP\Maestro/inc/modules/last-3-posts/last-3-posts.php:291
+#: d:\DEVELOP\Maestro/inc/modules/news-cat/news-cat.php:230
+#: d:\DEVELOP\Maestro/inc/modules/news-row/news-row.php:248
+#: d:\DEVELOP\Maestro/inc/modules/one-gallery/one-gallery.php:204
+#: d:\DEVELOP\Maestro/inc/modules/sticky-posts/sticky-posts.php:205
+#: d:\DEVELOP\Maestro/inc/modules/testemonials/testemonials.php:207
+#: d:\DEVELOP\Maestro/inc/widgets/sticky-posts.php:208
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:221
+#: d:\DEVELOP\Maestro/inc/widgets/widget-galleries.php:205
+#: d:\DEVELOP\Maestro/inc/widgets/widget-latest-3-news.php:279
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-cat.php:225
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-row.php:240
+#: d:\DEVELOP\Maestro/inc/widgets/widget-testimonials.php:198
+msgid "Ascending"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:237
+#: d:\DEVELOP\Maestro/inc/modules/galleries/galleries.php:220
+#: d:\DEVELOP\Maestro/inc/modules/last-3-posts/last-3-posts.php:296
+#: d:\DEVELOP\Maestro/inc/modules/news-cat/news-cat.php:235
+#: d:\DEVELOP\Maestro/inc/modules/news-row/news-row.php:253
+#: d:\DEVELOP\Maestro/inc/modules/partners-logo/partners-logo.php:187
+#: d:\DEVELOP\Maestro/inc/modules/sticky-posts/sticky-posts.php:210
+#: d:\DEVELOP\Maestro/inc/modules/testemonials/testemonials.php:212
+#: d:\DEVELOP\Maestro/inc/widgets/sticky-posts.php:213
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:226
+#: d:\DEVELOP\Maestro/inc/widgets/widget-galleries.php:210
+#: d:\DEVELOP\Maestro/inc/widgets/widget-latest-3-news.php:284
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-cat.php:230
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-row.php:245
+#: d:\DEVELOP\Maestro/inc/widgets/widget-partnes.php:180
+#: d:\DEVELOP\Maestro/inc/widgets/widget-testimonials.php:203
+msgid "Order posts by"
+msgstr "&larr; Publicaciones anteriores"
+
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:240
+#: d:\DEVELOP\Maestro/inc/modules/galleries/galleries.php:223
+#: d:\DEVELOP\Maestro/inc/modules/last-3-posts/last-3-posts.php:299
+#: d:\DEVELOP\Maestro/inc/modules/news-cat/news-cat.php:238
+#: d:\DEVELOP\Maestro/inc/modules/news-row/news-row.php:256
+#: d:\DEVELOP\Maestro/inc/modules/partners-logo/partners-logo.php:190
+#: d:\DEVELOP\Maestro/inc/modules/sticky-posts/sticky-posts.php:213
+#: d:\DEVELOP\Maestro/inc/modules/testemonials/testemonials.php:215
+#: d:\DEVELOP\Maestro/inc/widgets/sticky-posts.php:216
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:229
+#: d:\DEVELOP\Maestro/inc/widgets/widget-galleries.php:213
+#: d:\DEVELOP\Maestro/inc/widgets/widget-latest-3-news.php:287
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-cat.php:233
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-row.php:248
+#: d:\DEVELOP\Maestro/inc/widgets/widget-partnes.php:183
+#: d:\DEVELOP\Maestro/inc/widgets/widget-testimonials.php:206
+msgid "No order"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:241
+#: d:\DEVELOP\Maestro/inc/modules/galleries/galleries.php:224
+#: d:\DEVELOP\Maestro/inc/modules/last-3-posts/last-3-posts.php:300
+#: d:\DEVELOP\Maestro/inc/modules/news-cat/news-cat.php:239
+#: d:\DEVELOP\Maestro/inc/modules/news-row/news-row.php:257
+#: d:\DEVELOP\Maestro/inc/modules/partners-logo/partners-logo.php:191
+#: d:\DEVELOP\Maestro/inc/modules/sticky-posts/sticky-posts.php:214
+#: d:\DEVELOP\Maestro/inc/modules/testemonials/testemonials.php:216
+#: d:\DEVELOP\Maestro/inc/widgets/sticky-posts.php:217
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:230
+#: d:\DEVELOP\Maestro/inc/widgets/widget-galleries.php:214
+#: d:\DEVELOP\Maestro/inc/widgets/widget-latest-3-news.php:288
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-cat.php:234
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-row.php:249
+#: d:\DEVELOP\Maestro/inc/widgets/widget-partnes.php:184
+#: d:\DEVELOP\Maestro/inc/widgets/widget-testimonials.php:207
+msgid "Order by post id"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:242
+#: d:\DEVELOP\Maestro/inc/modules/galleries/galleries.php:225
+#: d:\DEVELOP\Maestro/inc/modules/last-3-posts/last-3-posts.php:301
+#: d:\DEVELOP\Maestro/inc/modules/news-cat/news-cat.php:240
+#: d:\DEVELOP\Maestro/inc/modules/news-row/news-row.php:258
+#: d:\DEVELOP\Maestro/inc/modules/partners-logo/partners-logo.php:192
+#: d:\DEVELOP\Maestro/inc/modules/sticky-posts/sticky-posts.php:215
+#: d:\DEVELOP\Maestro/inc/modules/testemonials/testemonials.php:217
+#: d:\DEVELOP\Maestro/inc/widgets/sticky-posts.php:218
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:231
+#: d:\DEVELOP\Maestro/inc/widgets/widget-galleries.php:215
+#: d:\DEVELOP\Maestro/inc/widgets/widget-latest-3-news.php:289
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-cat.php:235
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-row.php:250
+#: d:\DEVELOP\Maestro/inc/widgets/widget-partnes.php:185
+#: d:\DEVELOP\Maestro/inc/widgets/widget-testimonials.php:208
+msgid "Order by title"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:243
+#: d:\DEVELOP\Maestro/inc/modules/galleries/galleries.php:226
+#: d:\DEVELOP\Maestro/inc/modules/last-3-posts/last-3-posts.php:302
+#: d:\DEVELOP\Maestro/inc/modules/news-cat/news-cat.php:241
+#: d:\DEVELOP\Maestro/inc/modules/news-row/news-row.php:259
+#: d:\DEVELOP\Maestro/inc/modules/partners-logo/partners-logo.php:193
+#: d:\DEVELOP\Maestro/inc/modules/sticky-posts/sticky-posts.php:216
+#: d:\DEVELOP\Maestro/inc/modules/testemonials/testemonials.php:218
+#: d:\DEVELOP\Maestro/inc/widgets/sticky-posts.php:219
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:232
+#: d:\DEVELOP\Maestro/inc/widgets/widget-galleries.php:216
+#: d:\DEVELOP\Maestro/inc/widgets/widget-latest-3-news.php:290
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-cat.php:236
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-row.php:251
+#: d:\DEVELOP\Maestro/inc/widgets/widget-partnes.php:186
+#: d:\DEVELOP\Maestro/inc/widgets/widget-testimonials.php:209
+msgid "Order by post name (post slug)"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:244
+#: d:\DEVELOP\Maestro/inc/modules/galleries/galleries.php:227
+#: d:\DEVELOP\Maestro/inc/modules/last-3-posts/last-3-posts.php:303
+#: d:\DEVELOP\Maestro/inc/modules/news-cat/news-cat.php:242
+#: d:\DEVELOP\Maestro/inc/modules/news-row/news-row.php:260
+#: d:\DEVELOP\Maestro/inc/modules/partners-logo/partners-logo.php:194
+#: d:\DEVELOP\Maestro/inc/modules/sticky-posts/sticky-posts.php:217
+#: d:\DEVELOP\Maestro/inc/modules/testemonials/testemonials.php:219
+#: d:\DEVELOP\Maestro/inc/widgets/sticky-posts.php:220
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:233
+#: d:\DEVELOP\Maestro/inc/widgets/widget-galleries.php:217
+#: d:\DEVELOP\Maestro/inc/widgets/widget-latest-3-news.php:291
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-cat.php:237
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-row.php:252
+#: d:\DEVELOP\Maestro/inc/widgets/widget-partnes.php:187
+#: d:\DEVELOP\Maestro/inc/widgets/widget-testimonials.php:210
+msgid "Order by date"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:245
+#: d:\DEVELOP\Maestro/inc/modules/galleries/galleries.php:228
+#: d:\DEVELOP\Maestro/inc/modules/last-3-posts/last-3-posts.php:304
+#: d:\DEVELOP\Maestro/inc/modules/news-cat/news-cat.php:243
+#: d:\DEVELOP\Maestro/inc/modules/news-row/news-row.php:261
+#: d:\DEVELOP\Maestro/inc/modules/partners-logo/partners-logo.php:195
+#: d:\DEVELOP\Maestro/inc/modules/sticky-posts/sticky-posts.php:218
+#: d:\DEVELOP\Maestro/inc/modules/testemonials/testemonials.php:220
+#: d:\DEVELOP\Maestro/inc/widgets/sticky-posts.php:221
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:234
+#: d:\DEVELOP\Maestro/inc/widgets/widget-galleries.php:218
+#: d:\DEVELOP\Maestro/inc/widgets/widget-latest-3-news.php:292
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-cat.php:238
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-row.php:253
+#: d:\DEVELOP\Maestro/inc/widgets/widget-partnes.php:188
+#: d:\DEVELOP\Maestro/inc/widgets/widget-testimonials.php:211
+msgid "Order by last modified date"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:246
+#: d:\DEVELOP\Maestro/inc/modules/galleries/galleries.php:229
+#: d:\DEVELOP\Maestro/inc/modules/last-3-posts/last-3-posts.php:305
+#: d:\DEVELOP\Maestro/inc/modules/news-cat/news-cat.php:244
+#: d:\DEVELOP\Maestro/inc/modules/news-row/news-row.php:262
+#: d:\DEVELOP\Maestro/inc/modules/partners-logo/partners-logo.php:196
+#: d:\DEVELOP\Maestro/inc/modules/sticky-posts/sticky-posts.php:219
+#: d:\DEVELOP\Maestro/inc/modules/testemonials/testemonials.php:221
+#: d:\DEVELOP\Maestro/inc/widgets/sticky-posts.php:222
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:235
+#: d:\DEVELOP\Maestro/inc/widgets/widget-galleries.php:219
+#: d:\DEVELOP\Maestro/inc/widgets/widget-latest-3-news.php:293
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-cat.php:239
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-row.php:254
+#: d:\DEVELOP\Maestro/inc/widgets/widget-partnes.php:189
+#: d:\DEVELOP\Maestro/inc/widgets/widget-testimonials.php:212
+msgid "Random order"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:247
+#: d:\DEVELOP\Maestro/inc/modules/galleries/galleries.php:230
+#: d:\DEVELOP\Maestro/inc/modules/last-3-posts/last-3-posts.php:306
+#: d:\DEVELOP\Maestro/inc/modules/news-cat/news-cat.php:245
+#: d:\DEVELOP\Maestro/inc/modules/news-row/news-row.php:263
+#: d:\DEVELOP\Maestro/inc/modules/partners-logo/partners-logo.php:197
+#: d:\DEVELOP\Maestro/inc/modules/sticky-posts/sticky-posts.php:220
+#: d:\DEVELOP\Maestro/inc/modules/testemonials/testemonials.php:222
+#: d:\DEVELOP\Maestro/inc/widgets/sticky-posts.php:223
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:236
+#: d:\DEVELOP\Maestro/inc/widgets/widget-galleries.php:220
+#: d:\DEVELOP\Maestro/inc/widgets/widget-latest-3-news.php:294
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-cat.php:240
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-row.php:255
+#: d:\DEVELOP\Maestro/inc/widgets/widget-partnes.php:190
+#: d:\DEVELOP\Maestro/inc/widgets/widget-testimonials.php:213
+msgid "Order by number of comments"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:253
+#: d:\DEVELOP\Maestro/inc/modules/galleries/galleries.php:236
+#: d:\DEVELOP\Maestro/inc/modules/news-row/news-row.php:269
+#: d:\DEVELOP\Maestro/inc/modules/one-gallery/one-gallery.php:209
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:242
+#: d:\DEVELOP\Maestro/inc/widgets/widget-galleries.php:226
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-row.php:261
+msgid "Number of columns"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:256
+#: d:\DEVELOP\Maestro/inc/modules/galleries/galleries.php:239
+#: d:\DEVELOP\Maestro/inc/modules/news-row/news-row.php:272
+#: d:\DEVELOP\Maestro/inc/modules/one-gallery/one-gallery.php:212
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:245
+#: d:\DEVELOP\Maestro/inc/widgets/widget-galleries.php:229
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-row.php:264
+msgid "1 column"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:257
+#: d:\DEVELOP\Maestro/inc/modules/galleries/galleries.php:240
+#: d:\DEVELOP\Maestro/inc/modules/news-row/news-row.php:273
+#: d:\DEVELOP\Maestro/inc/modules/one-gallery/one-gallery.php:213
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:246
+#: d:\DEVELOP\Maestro/inc/widgets/widget-galleries.php:230
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-row.php:265
+msgid "2 columns"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:258
+#: d:\DEVELOP\Maestro/inc/modules/galleries/galleries.php:241
+#: d:\DEVELOP\Maestro/inc/modules/news-row/news-row.php:274
+#: d:\DEVELOP\Maestro/inc/modules/one-gallery/one-gallery.php:214
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:247
+#: d:\DEVELOP\Maestro/inc/widgets/widget-galleries.php:231
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-row.php:266
+msgid "3 columns"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/features/features.php:259
+#: d:\DEVELOP\Maestro/inc/modules/galleries/galleries.php:242
+#: d:\DEVELOP\Maestro/inc/modules/news-row/news-row.php:275
+#: d:\DEVELOP\Maestro/inc/modules/one-gallery/one-gallery.php:215
+#: d:\DEVELOP\Maestro/inc/widgets/widget-features-lst.php:248
+#: d:\DEVELOP\Maestro/inc/widgets/widget-galleries.php:232
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-row.php:267
+msgid "4 columns"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/galleries/galleries.php:22
+#: d:\DEVELOP\Maestro/inc/widgets/widget-galleries.php:9
+msgid "Display Galleries thumbnails"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/last-3-posts/last-3-posts.php:20
+msgid "Display articles from some category"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/last-3-posts/last-3-posts.php:270
+#: d:\DEVELOP\Maestro/inc/modules/news-cat/news-cat.php:209
+#: d:\DEVELOP\Maestro/inc/modules/news-row/news-row.php:227
+#: d:\DEVELOP\Maestro/inc/modules/sticky-posts/sticky-posts.php:184
+#: d:\DEVELOP\Maestro/inc/widgets/sticky-posts.php:187
+#: d:\DEVELOP\Maestro/inc/widgets/widget-latest-3-news.php:258
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-cat.php:204
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-row.php:219
+msgid "Select category"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/last-3-posts/last-3-posts.php:312
+#: d:\DEVELOP\Maestro/inc/widgets/widget-latest-3-news.php:300
+msgid "Select news alignment"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/last-3-posts/last-3-posts.php:315
+#: d:\DEVELOP\Maestro/inc/widgets/widget-latest-3-news.php:303
+msgid "Horizontal"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/last-3-posts/last-3-posts.php:316
+#: d:\DEVELOP\Maestro/inc/widgets/widget-latest-3-news.php:304
+msgid "Vertical"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/last-3-posts/last-3-posts.php:323
+msgid "Icon image"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/map/map.php:9
+msgid "Google map"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/map/map.php:31
+#: d:\DEVELOP\Maestro/inc/modules/shortcode/shortcode.php:42
+#: d:\DEVELOP\Maestro/inc/widgets/widget-shortcode.php:31
+msgid "Some shortcode"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/map/map.php:143
+msgid "Address"
+msgstr "Dirección:"
+
+#: d:\DEVELOP\Maestro/inc/modules/map/map.php:147
+msgid "Height (in px)"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/map/map.php:152
+msgid "Full width?"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/news-cat/news-cat.php:20
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-cat.php:9
+msgid "Display news/articles from some category"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/news-cat/news-cat.php:195
+#: d:\DEVELOP\Maestro/inc/modules/sticky-posts/sticky-posts.php:170
+#: d:\DEVELOP\Maestro/inc/modules/testemonials/testemonials.php:188
+#: d:\DEVELOP\Maestro/inc/widgets/sticky-posts.php:173
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-cat.php:190
+#: d:\DEVELOP\Maestro/inc/widgets/widget-testimonials.php:179
+msgid "Number of posts"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/news-row/news-row.php:20
+#: d:\DEVELOP\Maestro/inc/widgets/widget-news-row.php:9
+msgid "Display news/articles row from some category"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/one-gallery/one-gallery.php:22
+msgid "Display Gallery thumbnails"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/one-gallery/one-gallery.php:222
+msgid "Select gallery"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/partners-logo/partners-logo.php:20
+#: d:\DEVELOP\Maestro/inc/widgets/widget-partnes.php:9
+msgid "Display clients / partners logo"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/recent-items/recent-items.php:20
+#: d:\DEVELOP\Maestro/inc/widgets/widget-recent.php:9
+msgid "Must be placed in 1 column row"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/recent-items/recent-items.php:42
+#: d:\DEVELOP\Maestro/inc/widgets/widget-recent.php:31
+msgid "Recent items"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/shortcode/shortcode.php:20
+#: d:\DEVELOP\Maestro/inc/widgets/widget-shortcode.php:9
+msgid "Any shortcode can be added here"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/shortcode/shortcode.php:118
+#: d:\DEVELOP\Maestro/inc/widgets/widget-shortcode.php:110
+msgid "Shortcode"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/skills/skills.php:9
+#: d:\DEVELOP\Maestro/inc/widgets/widget-skills.php:9
+msgid "My slills widget"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/skills/skills.php:98
+#: d:\DEVELOP\Maestro/inc/widgets/widget-skills.php:90
+msgid "My skills"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/skills/skills.php:133
+#: d:\DEVELOP\Maestro/inc/modules/tabs/tabs.php:92
+#: d:\DEVELOP\Maestro/inc/widgets/widget-accordion.php:91
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-tabs.php:94
+#: d:\DEVELOP\Maestro/inc/widgets/widget-skills.php:125
+#: d:\DEVELOP\Maestro/inc/widgets/widget-styled-list.php:89
+msgid "Subitle:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/skills/skills.php:138
+#: d:\DEVELOP\Maestro/inc/modules/skills/skills.php:148
+#: d:\DEVELOP\Maestro/inc/modules/skills/skills.php:157
+#: d:\DEVELOP\Maestro/inc/modules/skills/skills.php:166
+#: d:\DEVELOP\Maestro/inc/widgets/widget-skills.php:130
+#: d:\DEVELOP\Maestro/inc/widgets/widget-skills.php:140
+#: d:\DEVELOP\Maestro/inc/widgets/widget-skills.php:149
+#: d:\DEVELOP\Maestro/inc/widgets/widget-skills.php:158
+msgid "Skill"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/skills/skills.php:143
+#: d:\DEVELOP\Maestro/inc/modules/skills/skills.php:152
+#: d:\DEVELOP\Maestro/inc/modules/skills/skills.php:161
+#: d:\DEVELOP\Maestro/inc/modules/skills/skills.php:170
+#: d:\DEVELOP\Maestro/inc/widgets/widget-skills.php:135
+#: d:\DEVELOP\Maestro/inc/widgets/widget-skills.php:144
+#: d:\DEVELOP\Maestro/inc/widgets/widget-skills.php:153
+#: d:\DEVELOP\Maestro/inc/widgets/widget-skills.php:162
+msgid "Skill percent"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/sticky-posts/sticky-posts.php:10
+msgid "Display sticky articles from some category"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/sticky-posts/sticky-posts.php:99
+#: d:\DEVELOP\Maestro/inc/widgets/sticky-posts.php:102
+msgid "Read more"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/tabs/tabs.php:103
+#: d:\DEVELOP\Maestro/inc/modules/tabs/tabs.php:115
+#: d:\DEVELOP\Maestro/inc/modules/tabs/tabs.php:123
+#: d:\DEVELOP\Maestro/inc/modules/tabs/tabs.php:131
+#: d:\DEVELOP\Maestro/inc/modules/tabs/tabs.php:139
+#: d:\DEVELOP\Maestro/inc/modules/tabs/tabs.php:147
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-tabs.php:105
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-tabs.php:117
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-tabs.php:125
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-tabs.php:133
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-tabs.php:141
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-tabs.php:149
+msgid "Title for Tab:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/tabs/tabs.php:107
+#: d:\DEVELOP\Maestro/inc/modules/tabs/tabs.php:119
+#: d:\DEVELOP\Maestro/inc/modules/tabs/tabs.php:127
+#: d:\DEVELOP\Maestro/inc/modules/tabs/tabs.php:135
+#: d:\DEVELOP\Maestro/inc/modules/tabs/tabs.php:143
+#: d:\DEVELOP\Maestro/inc/modules/tabs/tabs.php:151
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-tabs.php:109
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-tabs.php:121
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-tabs.php:129
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-tabs.php:137
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-tabs.php:145
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-tabs.php:153
+msgid "Content for Tab:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/modules/testemonials/testemonials.php:20
+#: d:\DEVELOP\Maestro/inc/widgets/widget-testimonials.php:9
+msgid "Display clients / partners testimonials"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/category-tiled.php:8
+msgid "A list of categories, with slightly tweaked output."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/category-tiled.php:9
+msgid "Theme: Categories list with icons"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/category-tiled.php:15
+#: d:\DEVELOP\Maestro/inc/widgets/widget_categories.php:15
+msgid "Blog categories"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/category-tiled.php:102
+msgid "Show post counts"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/category-tiled.php:104
+#: d:\DEVELOP\Maestro/inc/widgets/widget_categories.php:124
+msgid "Select Taxonomy"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/recent-posts.php:12
+msgid "Recent Posts widget"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/recent-posts.php:18
+msgid "Theme: Recent Posts"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/recent-posts.php:116
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tabs.php:151
+msgid "Number of posts:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/recent-posts.php:122
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tabs.php:168
+msgid "Display date or thumb:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/search-subtitle.php:9
+#: d:\DEVELOP\Maestro/inc/widgets/widget-search.php:9
+msgid "Search widget with subtitle"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/search-subtitle.php:31
+#: d:\DEVELOP\Maestro/templates/searchform.php:3
+#: d:\DEVELOP\Maestro/templates/searchform.php:4
+msgid "Search"
+msgstr "Buscar"
+
+#: d:\DEVELOP\Maestro/inc/widgets/search-subtitle.php:60
+#: d:\DEVELOP\Maestro/inc/widgets/widget-search.php:64
+#: d:\DEVELOP\Maestro/templates/searchform.php:2
+msgid "Search for:"
+msgstr "Buscar por:"
+
+#: d:\DEVELOP\Maestro/inc/widgets/search-subtitle.php:109
+#: d:\DEVELOP\Maestro/inc/widgets/widget-search.php:115
+msgid "Placeholder"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/sticky-posts.php:9
+msgid "Display stiky articles from some category"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/tags-subtitle.php:9
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tags.php:9
+msgid "Tags block with subtitle"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/tags-subtitle.php:31
+#: d:\DEVELOP\Maestro/inc/widgets/text-subtitle.php:31
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tags.php:31
+msgid "Text block"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/text-subtitle.php:9
+#: d:\DEVELOP\Maestro/inc/widgets/widget-text.php:9
+msgid "Text block with subtitle"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/text-subtitle.php:127
+msgid "HTML"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/text-subtitle.php:128
+msgid "Visual"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/unwrapped-text.php:11
+msgid ""
+"Displays arbritrary text of HTML just like the standard Text widget, but "
+"this one does not include the header bar and wrapper style - just a blank "
+"canvas for content"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/unwrapped-text.php:77
+msgid "Text/HTML"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-accordion.php:106
+#: d:\DEVELOP\Maestro/inc/widgets/widget-accordion.php:118
+#: d:\DEVELOP\Maestro/inc/widgets/widget-accordion.php:126
+#: d:\DEVELOP\Maestro/inc/widgets/widget-accordion.php:134
+#: d:\DEVELOP\Maestro/inc/widgets/widget-accordion.php:142
+#: d:\DEVELOP\Maestro/inc/widgets/widget-accordion.php:150
+msgid "Section Content:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-block-desc.php:9
+msgid "Text block with tiltle + desc + butt"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-contact.php:10
+msgid "Displays sample Contact form"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-contact.php:65
+msgid "<h2>Thank you for your message!</h2>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-contact.php:67
+msgid "<h2>Unknown error, during message sending.</h2>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-contact.php:69
+msgid "<h2>Wrong answer for the question!</h2>"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-contact.php:78
+#: d:\DEVELOP\Maestro/templates/comments.php:96
+msgid "Name"
+msgstr "Nombre"
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-contact.php:82
+msgid "E-mail"
+msgstr "Email:"
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-contact.php:86
+msgid "Topic:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-contact.php:90
+msgid "Comment"
+msgstr "Comentario"
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-contact.php:101
+msgid "Send message"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-contact.php:241
+msgid "E-mail:"
+msgstr "Email:"
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-contact.php:249
+msgid "Anti-spam question:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-contact.php:257
+msgid "Answer for the anti-spam question:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-facebook.php:12
+msgid "Cool Facebook Widget"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-facebook.php:120
+msgid "Facebook Name: ( ex: envato )"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-facebook.php:127
+#: d:\DEVELOP\Maestro/inc/widgets/widget-gallery.php:87
+msgid "Width(px):"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-facebook.php:136
+msgid "Border color:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-facebook.php:144
+msgid "Color scheme:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-facebook.php:159
+msgid "Show stream:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-facebook.php:173
+msgid "Show faces:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-facebook.php:187
+msgid "Show header:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-flickr.php:7
+msgid "Displays your Flickr feed"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-flickr.php:106
+msgid "ID:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-flickr.php:111
+msgid "Number of photos:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-gallery.php:20
+msgid "Random work from portfolio"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-gallery.php:36
+msgid "Random work"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-gallery.php:94
+msgid "Height(px):"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-gallery.php:103
+msgid "Images number:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-latest-3-news.php:9
+msgid "Display 3 articles row from some category"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-styled-list.php:9
+msgid "List of "
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-styled-list.php:68
+msgid "Styled list"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-styled-list.php:94
+msgid "Items wrapped in: li HTML tags"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tabs.php:12
+msgid "Tabbed widget containing Popular posts, and Recent Posts"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tabs.php:18
+msgid "Cr: Tabbed Widget"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tabs.php:49
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tabs.php:56
+msgid "Popular"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tabs.php:50
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tabs.php:55
+msgid "Recent"
+msgstr "Reciente"
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tabs.php:51
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tabs.php:57
+msgid "Comments"
+msgstr "Comentarios"
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tabs.php:155
+msgid "Popular limit (days):"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tabs.php:160
+msgid "Select header format:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tabs.php:162
+msgid "Popular-Recent"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tabs.php:163
+msgid "Recent-Popular"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tabs.php:170
+msgid "Thumbnail"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tabs.php:171
+msgid "Date"
+msgstr "Fecha"
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tabs.php:172
+msgid "Date & Thumb"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tabs.php:352
+#: d:\DEVELOP\Maestro/templates/dopinfo.php:7
+#: d:\DEVELOP\Maestro/templates/entry-meta.php:9
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tabs.php:352
+#: d:\DEVELOP\Maestro/templates/dopinfo.php:7
+#: d:\DEVELOP\Maestro/templates/entry-meta.php:9
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tabs.php:352
+#: d:\DEVELOP\Maestro/templates/dopinfo.php:7
+#: d:\DEVELOP\Maestro/templates/entry-meta.php:9
+msgid "% Comments"
+msgstr "Comentarios"
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tags.php:103
+msgid "Number tags:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-text.php:8
+msgid "Cr: Text block"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-tweets.php:16
+msgid "Displays your latest Tweets"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-vcard.php:18
+msgid "Use this widget to add a vCard"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-vcard.php:20
+msgid "Theme: vCard"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-vcard.php:47
+#: d:\DEVELOP\Maestro/inc/widgets/widget-vcard.php:48
+msgid "vCard"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-vcard.php:80
+msgid "E-Mail"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-vcard.php:81
+msgid "Web"
+msgstr "Sitio web"
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-vcard.php:83
+msgid "Twitter"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-video.php:13
+msgid "Include video or audio with oEmbed"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-video.php:39
+msgid "Embed URL"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-video.php:44
+msgid "Embed width in pixels"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-video.php:49
+msgid "Description"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-video.php:173
+msgid "Embed URL:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-video.php:177
+msgid "Embed width:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget-video.php:181
+msgid "Embed Description:"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget_categories.php:8
+msgid "A list of categories"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/inc/widgets/widget_categories.php:9
+msgid "Cr: Categories with icons"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/templates/author-box.php:30
+msgid "All posts"
+msgstr "Todos los articulos"
+
+#: d:\DEVELOP\Maestro/templates/author-box.php:31
+#: d:\DEVELOP\Maestro/templates/comments.php:98
+msgid "Website"
+msgstr "Sitio web"
+
+#: d:\DEVELOP\Maestro/templates/author-box.php:32
+msgid "Email"
+msgstr "Email:"
+
+#: d:\DEVELOP\Maestro/templates/block-recent.php:34
+#: d:\DEVELOP\Maestro/templates/block-shop.php:154
+msgid "full page"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/templates/comments.php:11
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr "<cite class=\"fn\">%s</cite>"
+
+#: d:\DEVELOP\Maestro/templates/comments.php:13
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: d:\DEVELOP\Maestro/templates/comments.php:16
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: d:\DEVELOP\Maestro/templates/comments.php:24
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario est&aacute; esperando moderaci&oacute;n."
+
+#: d:\DEVELOP\Maestro/templates/comments.php:40
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Esta publicaci&oacute;n esta protegida con clave. Ingresa la clave para ver "
+"los comentarios."
+
+#: d:\DEVELOP\Maestro/templates/comments.php:78
+msgid "Leave a Reply"
+msgstr "Deja un comentario"
+
+#: d:\DEVELOP\Maestro/templates/comments.php:78
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Deja un comentario en %s"
+
+#: d:\DEVELOP\Maestro/templates/comments.php:83
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Debes <a href=\"%s\">identificarte</a> para publicar un comentario."
+
+#: d:\DEVELOP\Maestro/templates/comments.php:90
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr "Identificado como <a href=\"%s/wp-admin/profile.php\">%s</a>."
+
+#: d:\DEVELOP\Maestro/templates/comments.php:91
+msgid "Log out of this account"
+msgstr "Desconectar de esta cuenta"
+
+#: d:\DEVELOP\Maestro/templates/comments.php:91
+msgid "Log out &raquo;"
+msgstr "Desconectar &raquo;"
+
+#: d:\DEVELOP\Maestro/templates/comments.php:96
+#: d:\DEVELOP\Maestro/templates/comments.php:97
+msgid " (required)"
+msgstr "(campo obligatorio)"
+
+#: d:\DEVELOP\Maestro/templates/comments.php:97
+msgid "Email (will not be published)"
+msgstr "Email (no ser&aacute; publicado)"
+
+#: d:\DEVELOP\Maestro/templates/comments.php:104
+msgid "Submit Comment"
+msgstr "Enviar Comentario"
+
+#: d:\DEVELOP\Maestro/templates/content-search.php:7
+msgid "Nothing Found"
+msgstr "Archivo no encontrado"
+
+#: d:\DEVELOP\Maestro/templates/content-search.php:11
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: d:\DEVELOP\Maestro/templates/content-single.php:47
+msgid "Pages:"
+msgstr "P&aacute;ginas:"
+
+#: d:\DEVELOP\Maestro/templates/entry-meta.php:3
+msgid "By"
+msgstr "Por"
+
+#: d:\DEVELOP\Maestro/templates/portfolio-item.php:80
+msgid "Read details"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/templates/section-panel.php:18
+msgid "Welcome"
+msgstr "Bienvenido"
+
+#: d:\DEVELOP\Maestro/templates/section-panel.php:32
+msgid "login on site"
+msgstr "Iniciar sesión"
+
+#: d:\DEVELOP\Maestro/templates/section-panel.php:35
+msgid "Enter your login"
+msgstr "Ingresa tu usuario"
+
+#: d:\DEVELOP\Maestro/templates/section-panel.php:36
+msgid "Enter your password"
+msgstr "Ingresa tu password"
+
+#: d:\DEVELOP\Maestro/templates/section-panel.php:40
+msgid "Registration"
+msgstr "Registro"
+
+#: d:\DEVELOP\Maestro/templates/section-panel.php:42
+msgid "Press ENTER to login"
+msgstr "Presione ENVIAR para iniciar la sesión"
+
+#: d:\DEVELOP\Maestro/templates/section-top-footer.php:95
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/templates/section-top-footer.php:97
+msgid "Y/m/d"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/templates/top-forum.php:12
+#: d:\DEVELOP\Maestro/templates/top-page.php:12
+msgid "Latest Posts"
+msgstr "&Uacute;ltimas Publicaciones"
+
+#: d:\DEVELOP\Maestro/templates/top-forum.php:22
+#: d:\DEVELOP\Maestro/templates/top-page.php:22
+msgid "Daily Archives: %s"
+msgstr "Archivos"
+
+#: d:\DEVELOP\Maestro/templates/top-forum.php:24
+#: d:\DEVELOP\Maestro/templates/top-page.php:24
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/templates/top-forum.php:26
+#: d:\DEVELOP\Maestro/templates/top-page.php:26
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/templates/top-forum.php:34
+#: d:\DEVELOP\Maestro/templates/top-page.php:34
+msgid "Author Archives:"
+msgstr "Archivos"
+
+#: d:\DEVELOP\Maestro/templates/top-forum.php:37
+#: d:\DEVELOP\Maestro/templates/top-page.php:37
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: d:\DEVELOP\Maestro/templates/top-forum.php:44
+#: d:\DEVELOP\Maestro/templates/top-page.php:44
+msgid "Search Results for %s"
+msgstr "Resultados de la b&uacute;squeda para"
+
+#: d:\DEVELOP\Maestro/templates/top-forum.php:46
+#: d:\DEVELOP\Maestro/templates/top-page.php:46
+msgid "File Not Found"
+msgstr "Archivo no encontrado"
+
+#~ msgid "#main CSS Classes"
+#~ msgstr "Clases CSS de #main"
+
+#~ msgid "#sidebar CSS Classes"
+#~ msgstr "Clases CSS de #sidebar"
+
+#~ msgid "&larr; Older comments"
+#~ msgstr "&larr; Comentarios Anteriores"
+
+#~ msgid "1140"
+#~ msgstr "1140"
+
+#~ msgid "960gs (12 cols)"
+#~ msgstr "960gs (12 columnas)"
+
+#~ msgid "960gs (16 cols)"
+#~ msgstr "960gs (16 columnas)"
+
+#~ msgid "960gs (24 cols)"
+#~ msgstr "960gs (24 columnas)"
+
+#~ msgid "Adapt.js"
+#~ msgstr "Adapt.js"
+
+#~ msgid "Blueprint CSS"
+#~ msgstr "Blueprint CSS"
+
+#~ msgid "CSS Grid Framework"
+#~ msgstr "CSS Grid Framework"
+
+#~ msgid "Check your spelling"
+#~ msgstr "Revisa la ortograf&iacute;a"
+
+#~ msgid "City/Locality:"
+#~ msgstr "Ciudad/Localidad:"
+
+#~ msgid "Click the <a href=\"javascript:history.back()\">Back</a> button"
+#~ msgstr ""
+#~ "Pincha el bot&oacute;n <a href=\"javascript:history.back()\">Regresar</a>"
+
+#~ msgid "Comments are closed."
+#~ msgstr "Los comentarios est&aacute;n cerrados."
+
+#~ msgid "Default: %s"
+#~ msgstr "Defecto: %s"
+
+#~ msgid "Enter your UA-XXXXX-X ID"
+#~ msgstr "Ingresa tu ID UA-XXXXX-X"
+
+#~ msgid "Google Analytics ID"
+#~ msgstr "ID de Google Analytics"
+
+#~ msgid "Newer comments &rarr;"
+#~ msgstr "Nuevos comentarios &rarr;"
+
+#~ msgid "Newer posts &rarr;"
+#~ msgstr "Nuevas publicaciones &rarr;"
+
+#~ msgid "No Responses to"
+#~ msgstr "No hay respuestas a"
+
+#~ msgid "One Response to"
+#~ msgstr "Una respuesta a"
+
+#~ msgid "Please do not load this page directly. Thanks!"
+#~ msgstr "Por favor no cargues esta p&aacute;gina directamente. Gracias!"
+
+#~ msgid ""
+#~ "Please make sure your <a href=\"%s\">.htaccess</a> file is writeable "
+#~ msgstr "Asegurare de que tu <a href=\"%s\">.htaccess</a> sea modificabile"
+
+#~ msgid "Please try the following:"
+#~ msgstr "Por favor intenta lo siguiente:"
+
+#~ msgid "Posted on %s at %s."
+#~ msgstr "Publicado en %s a las %s."
+
+#~ msgid "Posts"
+#~ msgstr "Publicaciones"
+
+#~ msgid "Roots: vCard"
+#~ msgstr "Roots: vCard"
+
+#~ msgid "State/Region:"
+#~ msgstr "Estado / Regi&oacute;n"
+
+#~ msgid "Telephone:"
+#~ msgstr "Tel&eacute;fono:"
+
+#~ msgid ""
+#~ "The page you are looking for might have been removed, had its name "
+#~ "changed, or is temporarily unavailable."
+#~ msgstr ""
+#~ "La p&aacute;gina que buscas puede haber sido eliminada, cambiada de "
+#~ "nombre, o esta temporalmente no disponible."
+
+#~ msgid "Written by"
+#~ msgstr "Escrito por"
+
+#~ msgid "Zipcode/Postal Code:"
+#~ msgstr "C&oacute;digo Postal:"

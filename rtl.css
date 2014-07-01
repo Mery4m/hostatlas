@@ -1,0 +1,673 @@
+/*
+Theme Name:         Maestro
+Theme URI:          http://themes.crumina.net/maestro/
+Description:        Adds support for languages written in a Right To Left (RTL) direction.
+Version:            1.0
+Author:             Crumina
+Author URI:         http://crumina.net/
+
+License:            GPL v2
+License URI:        http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+
+body {
+	text-align:right;
+	unicode-bidi:embed;
+	direction:rtl;
+}
+
+div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, th, td, .main-slider-block .description {
+	direction: inherit;
+}
+
+div {
+	text-align: right;
+}
+.main-slider-block,
+.tw-slider.flexslider {
+	direction: ltr;
+}
+.tw-slider.flexslider,
+.wpb_prev_slide,
+.tw-slider.flexslider *,
+.ls-container,
+.ls-container * {
+	text-align:left;
+	direction: ltr;
+}
+.row .offset-by-one {
+	margin-left: 0;
+	margin-right: 8.33333%;
+}
+
+blockquote {
+    background: #f9f9f9;
+    border-left: 1em solid #eee;
+    margin: 1.5em 1em;
+    padding: .5em 1em;
+    quotes: "\201C""\201D";
+}
+
+blockquote:before {
+    color: #808080;
+    content: open-quote;
+    font-size: 4em;
+    line-height: .1em;
+    margin-right: .25em;
+    vertical-align: -.4em;
+}
+
+blockquote :first-child {
+    display: inline;
+}
+
+blockquote :last-child {
+    margin-bottom: 0;
+}
+
+.tw-slider.flexslider .twitter-item,
+.tw-slider.flexslider .twitter-item .date {
+	text-align:right;
+}
+.tw-slider.flexslider {
+	padding-right:60px;
+}
+.item .description .info, 
+.item .description .title {
+	margin-left: 0;
+	margin-right: 58px;
+}
+.item .icon img {
+	left: auto;
+	right: 15px;
+}
+.top-text .subtitle,
+.top-text .title {
+	margin-left: 0;
+	margin-right: 80px;
+}
+#top-panel h3,
+#top-panel .top-avatar,
+#top-panel .links {
+	text-align:left;
+}
+#header .soc-head-icons {
+	padding-left: 20px;
+	padding-right: 0;
+}
+#top-menu > ul > li {
+	margin-left: 0;
+	margin-right: 12px;
+}
+#top-menu > ul > li:first-child {
+	margin-right: 0;
+}
+#top-menu > ul > li:last-child > ul {
+	left: 0;
+	right: auto;
+}
+#top-menu > ul > li ul li .menu-item-wrap a {
+	background-image: url(assets/img/arrow-menu-left.png) ;
+	background-repeat: no-repeat;
+	background-position: 98% 50%;
+}
+#top-menu > ul > li ul li:hover .menu-item-wrap a, 
+#top-menu > ul > li ul li.current-menu-item .menu-item-wrap a {
+	background-image: url(assets/img/arrow-menu-left.png);
+	background-position: 92% 50%;
+	background-repeat: no-repeat;
+	padding-right: 20px;
+	padding-left: 10px;
+}
+#top-menu > ul > li ul li .link-text {
+	padding-left: 10px;
+	padding-right: 20px;
+}
+#layout-sel a {
+	margin-right: 14px;
+	margin-left: 0;
+}
+#header address .mail {
+	background-position: 100% 0;
+	padding-left: 0;
+	padding-right: 21px;
+}
+#header address .phone {
+	background-position: 100% 0;
+	padding-left: 0;
+	padding-right: 24px;
+}
+#top-info .lang-sel a {
+	background-position: 0 7px;
+	padding-left: 13px;
+	padding-right: 0;
+}
+.soc-icons a:first-child {
+	margin-right: 0;
+}
+#page-title {
+	padding-left: 0;
+	padding-right: 55px;
+}
+#page-title a.back {
+	left: auto;
+	right: 0;
+}
+.widget .subtitle,
+.page-block-title .subtitle {
+	left: auto;
+	right: 49px;
+}
+.widget-title, .widget>.title h3,
+.widget-inner > .title{
+	padding-left: 0;
+	padding-right: 49px;
+}
+.team-photo {
+	margin: 0 0 0 14px;
+}
+.team-desc {
+	margin: 0 6px 0 0;
+}
+.widget .title,
+.crum_news_cat .title,
+.crum_testimonial_widget .title,
+.list_widget .title,
+.crum_partners_widget .title,
+.instagram-widget .title ,
+.widget_crum-text-widget .title,
+.contacts-widget .title,
+.tags-widget .title,
+.tabs-widget .title,
+.widget_gallery_widget .title,
+.widget_twitter-widget .title,
+.category-widget .title,
+.widget_facebook_widget .title,
+.widget_crum_widgets_video .title,
+.crum_widget_v_accordion .title,
+.crum_galleries_widget .title ,
+.crum_news_row .title,
+.widget-title, .widget>.title h3{
+	background-position: 100% 0 !important;
+}
+#open-top-panel {
+	left: auto;
+	right: 196px;
+}
+.extra-links {
+	background-position: 100% 50%;
+	margin-left: 0;
+	margin-right: 20px;
+	padding-left: 0;
+	padding-right: 19px;
+}
+.small-news time {
+	margin-left: 20px;
+	margin-right: 0;
+}
+article .dopinfo, 
+article .entry-title,
+.small-news .entry-summary {
+	margin-left: 0;
+	margin-right: 90px;
+}
+.page-block-title .icon img {
+	left: auto;
+	right: 0;
+}
+.page-block-title {
+	padding: 10px 0 2px 10px;
+}
+.folio-item .icon img {
+	left: auto;
+	right: 5px;
+}
+.description .info, .description .title {
+	margin-left: 0;
+	margin-right: 47px;
+}
+.twitter-row .nav {
+	text-align:left;
+	float: left;
+}
+.twitter-row iframe {
+	margin-right:55px;
+	margin-left:0;
+	float:right;
+}
+.twitter-row a.flex-prev {
+	float: left;
+	margin-left: 0;
+	margin-right: 4px;
+}
+.contacts-widget p {
+	padding-left: 0;
+	padding-right: 36px;
+}
+.contacts-widget .adress,
+.contacts-widget .phone,
+.contacts-widget .mail,
+#footer .contacts-widget .other,
+#footer .contacts-widget .twitter,
+#layout .contacts-widget .adress,
+#layout .contacts-widget .phone,
+#layout .contacts-widget .mail,
+#layout .contacts-widget .other {
+	background-position: 100% 50%;
+}
+.wpb_toggle, 
+#content h4.wpb_toggle,
+.wpb_twitter_widget .twitter_follow_button,
+.wpb_flickr_widget p.flickr_stream_wrap a {
+	background-position: 100% 50% !important;
+	padding-left: 0 !important;
+	padding-right: 28px;
+}
+.wpb_toggle_content {
+	padding-left:0 !important;
+	padding-right:28px !important;
+}
+.flickr_badge_image {
+	float: right;
+	margin: 0 0 10px 10px;
+}
+.tweet, .tweet_even, .tweet_odd {
+	background-position: 100% 2px;
+	padding-left: 0;
+	padding-right: 55px;
+}
+.footer-menu li {
+	margin-right: 0;
+	margin-left: 14px;
+	padding-right: 0;
+	padding-left: 15px;
+	background-position: 0 50%;
+}
+.soc-head-icons a {
+	margin-right: 0;
+	margin-left: 5px;
+}
+.al-right .button {
+	float: left;
+	margin-left: 0;
+	margin-right: 35px;
+}
+.to-action-block .ovh {
+	text-align:left;
+}
+.quote {
+	background-position: 97% 20px;
+	padding-left: 20px;
+	padding-right: 60px;
+}
+.quote:before,
+.quote:after {
+	left: auto;
+	right: 90px;
+}
+.quoteCite .quote-author,
+.quoteCite .quote-sub {
+	margin-left: 0;
+	margin-right: 70px;
+}
+.styled-list li {
+	background-position: 100% 3px;
+	padding-left: 0;
+	padding-right: 38px;
+}
+.follow-widget .icon,
+.follow-widget a.fb .icon {
+	padding-left: 0;
+	padding-right: 7px;
+}
+.follow-widget .text,
+.follow-widget .number {
+	margin-left: 0;
+	margin-right: 42px;
+}
+#searchform .s-submit {
+	right: auto;
+	left: 14px;
+}
+#searchform .s-field {
+	padding-right: 14px;
+	padding-left: 40px;
+}
+.tabs-date time {
+	margin-right: 3px;
+	margin-left: 20px;
+}
+.mini-news .entry-thumb {
+	float: right;
+	margin-right: 0;
+	margin-left: 20px;
+}
+.crum_stiky_news .blocks-text {
+	border-left:1px solid #ededed;
+	border-right:0;
+}
+.tags-widget a {
+	margin: 0 0 3px 3px;
+}
+.about_author_widget .text, 
+.about_author_widget .quote-author, 
+.about_author_widget .quote-sub {
+	margin-left: 0;
+	margin-right: 200px;
+}
+.about_author_widget .text:after {
+	border-right:0;
+	border-left: 8px solid #fafafa;
+	left: auto;
+	right: -7px;
+}
+.about_author_widget .text:before {
+	border-right:0;
+	border-left: 8px solid #f1f1f1;
+	left: auto;
+	right: -9px;
+}
+.post > time, .post > .row > .columns > time {
+	margin: 0 10px 10px 20px;
+}
+.shop-category-widget li .styled-icon, 
+.category-widget li .styled-icon {
+	left: auto;
+	right: 5px;
+}
+.shop-category-widget li a .category-border, 
+.category-widget li a .category-border {
+	margin-left: 0;
+	margin-right: 50px;
+}
+.shop-category-widget li a, .category-widget li a, 
+.product-categories li a {
+	padding-left: 0;
+	padding-right: 5px;
+}
+.shop-category-widget li a:hover:before,
+.category-widget li a:hover:before,
+.product-categories li a:hover:before{
+    border-left: 0;
+	border-right: 15px solid transparent;
+    left: 0;
+	right: auto;
+}
+.tabs.horisontal dd.active:first-child:after, 
+.tabs.horisontal li.active:first-child:after, 
+.filter li.active:first-child:after {
+	display: block;
+}
+.tabs.horisontal dd.active:first-child:before, 
+.tabs.horisontal li.active:first-child:before, 
+.filter li.active:first-child:before {
+	display: none;
+}
+.tweet {
+	background-position: 100% 2px;
+	padding-left: 0;
+	padding-right: 55px;
+}
+.post-social {
+	float: right;
+	padding-right: 0;
+	padding-left: 20px;
+}
+.post-social time {
+	margin-right: 10px;
+}
+.author-photo {
+	margin: 0 0 10px 24px;
+}
+.share-icons a {
+	margin: 0 0 10px 6px;
+}
+.widget_wp_sidebarlogin .avatar_container img, 
+#sidebar-login .avatar_container img {
+	margin-right: 0;
+	margin-left: 5px;
+}
+.widget_shopping_cart li img {
+	margin-right: 0;
+	margin-left: 10px;
+}
+.quantity, #content .quantity {
+	margin-right: 0;
+	margin-left: 8px;
+}
+.woocommerce ul.cart_list li dl, .woocommerce-page ul.cart_list li dl, .woocommerce ul.product_list_widget li dl, .woocommerce-page ul.product_list_widget li dl {
+	border-right: 2px solid rgba(0, 0, 0, .1);
+	border-left: 0;
+}
+.woocommerce ul.cart_list li dl dt, .woocommerce-page ul.cart_list li dl dt, .woocommerce ul.product_list_widget li dl dt, .woocommerce-page ul.product_list_widget li dl dt {
+	float: right;
+	clear: right;
+}
+.commentform-inner input {
+	margin-right: 0;
+	margin-left: 2.8%;
+}
+.commentform-inner input:last-child {
+	margin-left: 0;
+}
+.team-desc:after {
+	left: auto;
+	right: -6px;
+	border-right: 0;
+	border-left: 8px solid #FAFAFA;
+}
+.team-desc:before {
+	left: auto;
+	right: -8px;
+	border-right: 0;
+	border-left: 8px solid #f1f1f1;
+}
+.tabs.vertical dd, .tabs.vertical li {
+	border-right: 0;
+	border-left: 1px solid #e2e2e2;
+}
+.tabs.vertical dd:first-child:before, 
+.tabs.vertical li:first-child:before {
+	right: auto;
+	left: 0;
+}
+.tabs.vertical dd, 
+.tabs.vertical li {
+	background: url("assets/img/tab-hor-border-rtl.png") no-repeat 0 100% #ffffff;
+}
+.tabs.vertical dd.active:before, 
+.tabs.vertical li.active:before {
+	background: url("assets/img/tab-top-shadow-rtl.png") no-repeat 0 0;
+}
+.tabs.vertical dd.active:after, .tabs.vertical li.active:after {
+	background: url("assets/img/tab-bott-shadow-rtl.png") no-repeat 0 0;
+}
+.tabs.vertical dd:after, .tabs.vertical li:after, .tabs.vertical dd:before, .tabs.vertical li:before {
+	right: auto;
+	left: 1px;
+}
+.tabs.vertical dd.active, .tabs.vertical li.active, .tabs.vertical dd.active:first-child, .tabs.vertical li.active:first-child {
+	border-left-width: 0;
+	border-right-width: 2px;
+	border-right-style: solid;
+	left: auto;
+	right: -1px;
+}
+.has-submenu > span .link-text {
+	background-position: 0 50%;
+	padding-right: 0;
+	padding-left: 12px;
+}
+#top-menu .has-submenu .tile-icon {
+	padding-right: 0;
+	padding-left: 10px;
+}
+#top-menu > ul > li.current-menu-item > .menu-item-wrap:before {
+	right: auto;
+	left: 0;
+	border-left: 0;
+	border-right: 15px solid transparent;
+}
+.page-block-title h2 {
+	padding-left: 0;
+	padding-right: 15px;
+}
+.twitter-row .icon {
+	margin-right: 0;
+	margin-left: 15px;
+}
+
+.column,
+.columns,
+.team-photo,
+.type-product .images,
+.quantity, #content .quantity,
+#logo,
+#top-menu > ul > li,
+.project-social > div,
+#top-info,
+#header .soc-head-icons,
+.soc-icons a,
+.top-text .icon,
+.page-title-inner,
+.item .description .icon,
+#top-panel .three.columns,
+article time,
+.page-block-title .icon,
+.recent-block .page-block-title,
+.tabs dd, 
+.tabs li,
+.tabs dt, 
+.tabs li.section-title,
+.folio-item .description .icon,
+.twitter-row .ten,
+.twitter-row .icon,
+.instagram-widget a,
+#sub-footer .copyr,
+.recent-block .folio-item,
+.quoteCite .avatar,
+.follow-widget .icon,
+.follow-widget a,
+.tags-widget a,
+.about_author_widget .avatar,
+.service-icon,
+.share-icons a,
+.author-photo,
+.filter li,
+.widget_wp_sidebarlogin .avatar_container, 
+#sidebar-login .avatar_container,
+ul.products li.product,
+.widget_shopping_cart li img {
+	float: right;
+}
+#top-menu,
+#page-title #layout-sel,
+.footer-menu,
+#page-title .page-nav {
+	float: left;
+}
+#top-info .lang-sel {
+	text-align: center;
+}
+.ui-tabs .ui-tabs-nav li {
+	float: right !important;
+}
+.dark-skin .about_author_widget .text:after, .dark-skin .comment-content:after, .dark-skin .team-desc:after {
+	border-left-color: #3E4147;
+}
+.dark-skin .about_author_widget .text:before, .dark-skin .comment-content:before, .dark-skin .filter li.active a, .dark-skin .team-desc:before {
+	border-left-color: #4B4E56;
+}
+div.alert-box a.close {
+	right: auto;
+	left: 4px;
+}
+div.alert-box {
+	border-left-width:1px;
+	border-right-width:3px;
+}
+div.alert-box.success {
+	border-left:1px solid #f1f1f1;
+	border-right:3px solid #4E9A21;
+}
+div.alert-box.alert {
+	border-left:1px solid #f1f1f1;
+	border-right:3px solid #F37A6B;
+}
+.bbp-topics-front ul.super-sticky, 
+.bbp-topics ul.super-sticky, 
+.bbp-topics ul.sticky, 
+.bbp-forum-content ul.sticky {
+	border-left: none !important;
+	border-right: 3px solid #F37A6B !important;
+}
+div.bbp-template-notice {
+	border-left:1px solid #f1f1f1 !important;
+	border-right: 3px solid #F37A6B !important;
+}
+@media (max-width: 767px){ 
+
+	#header .twelve.columns,
+	.head-bott {
+		text-align: center;
+	}
+	.crum_galleries_widget .four {
+		float: right;
+	}
+	.type-product .images {
+		width: 100%;
+	}
+	.filter li,
+	#header .soc-head-icons,
+	#logo,
+	.footer-menu,
+	.column,
+	.columns,
+	#top-panel .three.columns,
+	#top-info,
+	#top-menu,
+	#top-menu > ul > li,
+	.type-product .images,
+	.recent-block .page-block-title{
+		float: none;
+	}
+	#header .soc-head-icons {
+		padding: 0 20px;
+	}
+	#top-menu > ul > li ul li .menu-item-wrap a,
+	#top-menu > ul > li ul li .menu-item-wrap a:hover {
+		padding-right: 10px;
+		background-image: none;
+	}
+	.pricing-table .title * {
+		text-align: center;
+	}
+	#top-menu .tile-icon {
+		float: right;
+		padding-left: 10px;
+		padding-right: 0;
+	}
+	.has-submenu > span .link-text {
+		padding-left: 12px;
+		padding-right: 0;
+		background-position: 2% 50%;
+	}
+	#top-menu > ul > li {
+		margin-right: 0;
+	}
+	#top-menu .has-submenu .tile-icon {
+		padding-right: 0;
+	}
+	#top-menu > ul > li.current-menu-item > .menu-item-wrap:before {
+		left: 0;
+		right: auto;
+		border-left: 0;
+		border-right: 15px solid transparent;
+	}
+	#top-menu > ul > li ul li .menu-item-wrap a {
+		margin-right: 50px;
+		margin-left: 0;
+		text-align: right;
+	}
+}
