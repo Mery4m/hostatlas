@@ -6,7 +6,7 @@
         <?php
         set_layout('404');?>
 
-<!--add et test de git 4 de taf-->
+
         <article id="post-0" class="post no-results not-found">
 
             <header class="entry-header" style="border-bottom: 1px solid #f1f1f1; padding-bottom: 15px; margin-bottom: 15px">
